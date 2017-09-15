@@ -1,0 +1,1853 @@
+Export time: 2017/08/10 05:27:48 CLT
+Export duration: 137.721s
+
+Export settings:
+	Export Geometry: Models with Shape Fallback
+	Output Path: C:\Users\williams\Desktop\Proyecto titulo\CityEngine\Prueba3\models
+	Simplify Terrain Meshes: true
+	Terrain Layers: Export all selected terrain layers
+	applicationName: CityEngine
+	applicationString: CityEngine 2015.2.2106 0928R
+	applicationVendor: Esri R&D Center Zurich Inc.
+	applicationVersion: 2015.2.2106 09282247
+	atlasAddWrapBorder: true
+	author: williams
+	baseName: city3
+	collectTextures: true
+	createTextureAtlases: false
+	encoderID: com.esri.prt.codecs.OBJEncoder
+	encoderName: Wavefront OBJ
+	errorFallback: true
+	existingFiles: OVERWRITE
+	facesWithHoles: TRIANGULATE_FACES_WITH_HOLES
+	fileGranularity: MEMORY_BUDGET
+	globalOffset: [ 0.0, 0.0, 0.0 ]
+	includeMaterials: true
+	localOffset: NONE
+	maxAtlasDim: 11
+	memoryBudget: 500
+	mergeNormals: true
+	mergeTexcoords: true
+	mergeVertices: true
+	meshGranularity: PER_MATERIAL
+	normalPrecision: 0.001
+	sceneFile: /Prueba3/scenes/city3.cej
+	script: 
+	shapeNameDelimiter: _
+	texcoordPrecision: 1.0E-4
+	textureCoordinates: FIRST
+	triangulateMeshes: false
+	vertexNormals: PASS
+	vertexPrecision: 0.001
+	writeLog: true
+
+Initial shapes:
+	  0 :   OK                'Shape'             OID 'e446732c-c777-11b2-b657-001d48e455c6:0'
+	  1 :   OK                'Shape'             OID 'e446732c-c777-11b2-b657-001d48e455c6:1'
+	  2 :   OK                'Shape'             OID 'e446732c-c777-11b2-b657-001d48e455c6:2'
+	  3 :   OK                'Shape'             OID 'eb333990-c777-11b2-b657-001d48e455c6:0'
+	  4 :   OK                'Shape'             OID 'eb333990-c777-11b2-b657-001d48e455c6:1'
+	  5 :   OK                'Shape'             OID 'eb333990-c777-11b2-b657-001d48e455c6:2'
+	  6 :   OK                'Shape'             OID 'ebad7be2-c777-11b2-b657-001d48e455c6:0'
+	  7 :   OK                'Shape'             OID 'ebad7be2-c777-11b2-b657-001d48e455c6:1'
+	  8 :   OK                'Shape'             OID 'ebad7be2-c777-11b2-b657-001d48e455c6:2'
+	  9 :   OK                'Shape'             OID 'ebad7be2-c777-11b2-b657-001d48e455c6:3'
+	 10 :   OK                'Shape'             OID 'ebad7be2-c777-11b2-b657-001d48e455c6:4'
+	 11 :   OK                'Shape'             OID 'ebaeded4-c777-11b2-b657-001d48e455c6:0'
+	 12 :   OK                'Shape'             OID 'ebaeded4-c777-11b2-b657-001d48e455c6:1'
+	 13 :   OK                'Shape'             OID 'ebaeded4-c777-11b2-b657-001d48e455c6:2'
+	 14 :   OK                'Shape'             OID 'ece6c891-c777-11b2-b657-001d48e455c6:0'
+	 15 :   OK                'Shape'             OID 'ece6c891-c777-11b2-b657-001d48e455c6:1'
+	 16 :   OK                'Shape'             OID 'ece6c891-c777-11b2-b657-001d48e455c6:2'
+	 17 :   OK                'Shape'             OID 'ece6c891-c777-11b2-b657-001d48e455c6:3'
+	 18 :   OK                'Shape'             OID 'ece86a7d-c777-11b2-b657-001d48e455c6:0'
+	 19 :   OK                'Shape'             OID 'ece86a7d-c777-11b2-b657-001d48e455c6:1'
+	 20 :   OK                'Shape'             OID 'ece86a7d-c777-11b2-b657-001d48e455c6:2'
+	 21 :   OK                'Shape'             OID 'ed51673c-c777-11b2-b657-001d48e455c6:0'
+	 22 :   OK                'Shape'             OID 'ed51673c-c777-11b2-b657-001d48e455c6:1'
+	 23 :   OK                'Shape'             OID 'ed51673c-c777-11b2-b657-001d48e455c6:2'
+	 24 :   OK                'Shape'             OID 'ed51673c-c777-11b2-b657-001d48e455c6:3'
+	 25 :   OK                'Shape'             OID 'ed6712b7-c777-11b2-b657-001d48e455c6:0'
+	 26 :   OK                'Shape'             OID 'ed6712b7-c777-11b2-b657-001d48e455c6:1'
+	 27 :   OK                'Shape'             OID 'ed6712b7-c777-11b2-b657-001d48e455c6:2'
+	 28 :   OK                'Shape'             OID 'ed6712b7-c777-11b2-b657-001d48e455c6:3'
+	 29 :   OK                'Shape'             OID 'ed6860ab-c777-11b2-b657-001d48e455c6:0'
+	 30 :   OK                'Shape'             OID 'ed6860ab-c777-11b2-b657-001d48e455c6:1'
+	 31 :   OK                'Shape'             OID 'ed6860ab-c777-11b2-b657-001d48e455c6:2'
+	 32 :   OK                'Shape'             OID 'ee7f2607-c777-11b2-b657-001d48e455c6:0'
+	 33 :   OK                'Shape'             OID 'ee7f2607-c777-11b2-b657-001d48e455c6:1'
+	 34 :   OK                'Shape'             OID 'ee7f2607-c777-11b2-b657-001d48e455c6:2'
+	 35 :   OK                'Shape'             OID 'ee80cdac-c777-11b2-b657-001d48e455c6:0'
+	 36 :   OK                'Shape'             OID 'ee80cdac-c777-11b2-b657-001d48e455c6:1'
+	 37 :   OK                'Shape'             OID 'ee80cdac-c777-11b2-b657-001d48e455c6:2'
+	 38 :   OK                'Shape'             OID 'eead9e7a-c777-11b2-b657-001d48e455c6:0'
+	 39 :   OK                'Shape'             OID 'eead9e7a-c777-11b2-b657-001d48e455c6:1'
+	 40 :   OK                'Shape'             OID 'eead9e7a-c777-11b2-b657-001d48e455c6:2'
+	 41 :   OK                'Shape'             OID 'ef01a8da-c777-11b2-b657-001d48e455c6:0'
+	 42 :   OK                'Shape'             OID 'ef01a8da-c777-11b2-b657-001d48e455c6:1'
+	 43 :   OK                'Shape'             OID 'ef01a8da-c777-11b2-b657-001d48e455c6:2'
+	 44 :   OK                'Shape'             OID 'ef01a8da-c777-11b2-b657-001d48e455c6:3'
+	 45 :   OK                'Shape'             OID 'ef0407b2-c777-11b2-b657-001d48e455c6:0'
+	 46 :   OK                'Shape'             OID 'ef0407b2-c777-11b2-b657-001d48e455c6:1'
+	 47 :   OK                'Shape'             OID 'ef0407b2-c777-11b2-b657-001d48e455c6:2'
+	 48 :   OK                'Shape'             OID 'ef31e3ab-c777-11b2-b657-001d48e455c6:0'
+	 49 :   OK                'Shape'             OID 'ef31e3ab-c777-11b2-b657-001d48e455c6:1'
+	 50 :   OK                'Shape'             OID 'ef31e3ab-c777-11b2-b657-001d48e455c6:2'
+	 51 :   OK                'Shape'             OID 'ef31e3ab-c777-11b2-b657-001d48e455c6:3'
+	 52 :   OK                'Shape'             OID 'ef3368f7-c777-11b2-b657-001d48e455c6:0'
+	 53 :   OK                'Shape'             OID 'ef3368f7-c777-11b2-b657-001d48e455c6:1'
+	 54 :   OK                'Shape'             OID 'ef3368f7-c777-11b2-b657-001d48e455c6:2'
+	 55 :   OK                'Shape'             OID 'fe3dd04e-c777-11b2-b657-001d48e455c6:0'
+	 56 :   OK                'Shape'             OID 'fe3dd04e-c777-11b2-b657-001d48e455c6:1'
+	 57 :   OK                'Shape'             OID 'fe3dd04e-c777-11b2-b657-001d48e455c6:2'
+	 58 :   OK                'Shape'             OID '045ab388-c778-11b2-b657-001d48e455c6:0'
+	 59 :   OK                'Shape'             OID '045ab388-c778-11b2-b657-001d48e455c6:1'
+	 60 :   OK                'Shape'             OID '045ab388-c778-11b2-b657-001d48e455c6:2'
+	 61 :   OK                'Shape'             OID '0487e3c1-c778-11b2-b657-001d48e455c6:0'
+	 62 :   OK                'Shape'             OID '0487e3c1-c778-11b2-b657-001d48e455c6:1'
+	 63 :   OK                'Shape'             OID '0487e3c1-c778-11b2-b657-001d48e455c6:2'
+	 64 :   OK                'Shape'             OID '0487e3c1-c778-11b2-b657-001d48e455c6:3'
+	 65 :   OK                'Shape'             OID '0487e3c1-c778-11b2-b657-001d48e455c6:4'
+	 66 :   OK                'Shape'             OID '048c1252-c778-11b2-b657-001d48e455c6:0'
+	 67 :   OK                'Shape'             OID '048c1252-c778-11b2-b657-001d48e455c6:1'
+	 68 :   OK                'Shape'             OID '048c1252-c778-11b2-b657-001d48e455c6:2'
+	 69 :   OK                'Shape'             OID '050bebe1-c778-11b2-b657-001d48e455c6:0'
+	 70 :   OK                'Shape'             OID '050bebe1-c778-11b2-b657-001d48e455c6:1'
+	 71 :   OK                'Shape'             OID '050bebe1-c778-11b2-b657-001d48e455c6:2'
+	 72 :   OK                'Shape'             OID '050bebe1-c778-11b2-b657-001d48e455c6:3'
+	 73 :   OK                'Shape'             OID '050e7a6e-c778-11b2-b657-001d48e455c6:0'
+	 74 :   OK                'Shape'             OID '050e7a6e-c778-11b2-b657-001d48e455c6:1'
+	 75 :   OK                'Shape'             OID '050e7a6e-c778-11b2-b657-001d48e455c6:2'
+	 76 :   OK                'Shape'             OID '06626b71-c778-11b2-b657-001d48e455c6:0'
+	 77 :   OK                'Shape'             OID '06626b71-c778-11b2-b657-001d48e455c6:1'
+	 78 :   OK                'Shape'             OID '06626b71-c778-11b2-b657-001d48e455c6:2'
+	 79 :   OK                'Shape'             OID '06626b71-c778-11b2-b657-001d48e455c6:3'
+	 80 :   OK                'Shape'             OID '06673495-c778-11b2-b657-001d48e455c6:0'
+	 81 :   OK                'Shape'             OID '06673495-c778-11b2-b657-001d48e455c6:1'
+	 82 :   OK                'Shape'             OID '06673495-c778-11b2-b657-001d48e455c6:2'
+	 83 :   OK                'Shape'             OID '06bb2626-c778-11b2-b657-001d48e455c6:0'
+	 84 :   OK                'Shape'             OID '06bb2626-c778-11b2-b657-001d48e455c6:1'
+	 85 :   OK                'Shape'             OID '06bb2626-c778-11b2-b657-001d48e455c6:2'
+	 86 :   OK                'Shape'             OID '06bb2626-c778-11b2-b657-001d48e455c6:3'
+	 87 :   OK                'Shape'             OID '06be5500-c778-11b2-b657-001d48e455c6:0'
+	 88 :   OK                'Shape'             OID '06be5500-c778-11b2-b657-001d48e455c6:1'
+	 89 :   OK                'Shape'             OID '06be5500-c778-11b2-b657-001d48e455c6:2'
+	 90 :   OK                'Shape'             OID '0c5d9d13-c778-11b2-b657-001d48e455c6:0'
+	 91 :   OK                'Shape'             OID '0c5d9d13-c778-11b2-b657-001d48e455c6:1'
+	 92 :   OK                'Shape'             OID '0c5d9d13-c778-11b2-b657-001d48e455c6:2'
+	 93 :   OK                'Shape'             OID '0c5d9d13-c778-11b2-b657-001d48e455c6:3'
+	 94 :   OK                'Shape'             OID '0c5f783f-c778-11b2-b657-001d48e455c6:0'
+	 95 :   OK                'Shape'             OID '0c5f783f-c778-11b2-b657-001d48e455c6:1'
+	 96 :   OK                'Shape'             OID '0c5f783f-c778-11b2-b657-001d48e455c6:2'
+	 97 :   OK                'Shape'             OID '0c762ee3-c778-11b2-b657-001d48e455c6:0'
+	 98 :   OK                'Shape'             OID '0c762ee3-c778-11b2-b657-001d48e455c6:1'
+	 99 :   OK                'Shape'             OID '0c762ee3-c778-11b2-b657-001d48e455c6:2'
+	100 :   OK                'Shape'             OID '0c7713e3-c778-11b2-b657-001d48e455c6:0'
+	101 :   OK                'Shape'             OID '0c7713e3-c778-11b2-b657-001d48e455c6:1'
+	102 :   OK                'Shape'             OID '0c7713e3-c778-11b2-b657-001d48e455c6:2'
+	103 :   OK                'Shape'             OID '0cd458c2-c778-11b2-b657-001d48e455c6:0'
+	104 :   OK                'Shape'             OID '0cd458c2-c778-11b2-b657-001d48e455c6:1'
+	105 :   OK                'Shape'             OID '0cd458c2-c778-11b2-b657-001d48e455c6:2'
+	106 :   OK                'Shape'             OID '0cd458c2-c778-11b2-b657-001d48e455c6:3'
+	107 :   OK                'Shape'             OID '0cd569a6-c778-11b2-b657-001d48e455c6:0'
+	108 :   OK                'Shape'             OID '0cd569a6-c778-11b2-b657-001d48e455c6:1'
+	109 :   OK                'Shape'             OID '0cd569a6-c778-11b2-b657-001d48e455c6:2'
+	110 :   OK                'Shape'             OID '0cfac43a-c778-11b2-b657-001d48e455c6:0'
+	111 :   OK                'Shape'             OID '0cfac43a-c778-11b2-b657-001d48e455c6:1'
+	112 :   OK                'Shape'             OID '0cfac43a-c778-11b2-b657-001d48e455c6:2'
+	113 :   OK                'Shape'             OID '0cfac43a-c778-11b2-b657-001d48e455c6:3'
+	114 :   OK                'Shape'             OID '0cfbad0b-c778-11b2-b657-001d48e455c6:0'
+	115 :   OK                'Shape'             OID '0cfbad0b-c778-11b2-b657-001d48e455c6:1'
+	116 :   OK                'Shape'             OID '0cfbad0b-c778-11b2-b657-001d48e455c6:2'
+	117 :   OK                'Shape'             OID '0d8cf810-c778-11b2-b657-001d48e455c6:0'
+	118 :   OK                'Shape'             OID '0d8cf810-c778-11b2-b657-001d48e455c6:1'
+	119 :   OK                'Shape'             OID '0d8cf810-c778-11b2-b657-001d48e455c6:2'
+	120 :   OK                'Shape'             OID '0d8cf810-c778-11b2-b657-001d48e455c6:3'
+	121 :   OK                'Shape'             OID '0d8e0adc-c778-11b2-b657-001d48e455c6:0'
+	122 :   OK                'Shape'             OID '0d8e0adc-c778-11b2-b657-001d48e455c6:1'
+	123 :   OK                'Shape'             OID '0d8e0adc-c778-11b2-b657-001d48e455c6:2'
+	124 :   OK                'Shape'             OID '0dc29a68-c778-11b2-b657-001d48e455c6:0'
+	125 :   OK                'Shape'             OID '0dc29a68-c778-11b2-b657-001d48e455c6:1'
+	126 :   OK                'Shape'             OID '0dc29a68-c778-11b2-b657-001d48e455c6:2'
+	127 :   OK                'Shape'             OID '0e97f08d-c778-11b2-b657-001d48e455c6:0'
+	128 :   OK                'Shape'             OID '0e97f08d-c778-11b2-b657-001d48e455c6:1'
+	129 :   OK                'Shape'             OID '0e97f08d-c778-11b2-b657-001d48e455c6:2'
+	130 :   OK                'Shape'             OID '14f0ada9-c778-11b2-b657-001d48e455c6:0'
+	131 :   OK                'Shape'             OID '14f0ada9-c778-11b2-b657-001d48e455c6:1'
+	132 :   OK                'Shape'             OID '14f0ada9-c778-11b2-b657-001d48e455c6:2'
+	133 :   OK                'Shape'             OID '14f0ada9-c778-11b2-b657-001d48e455c6:3'
+	134 :   OK                'Shape'             OID '14f1a3d6-c778-11b2-b657-001d48e455c6:0'
+	135 :   OK                'Shape'             OID '14f1a3d6-c778-11b2-b657-001d48e455c6:1'
+	136 :   OK                'Shape'             OID '14f1a3d6-c778-11b2-b657-001d48e455c6:2'
+	137 :   OK                'Shape'             OID '1545416f-c778-11b2-b657-001d48e455c6:0'
+	138 :   OK                'Shape'             OID '1545416f-c778-11b2-b657-001d48e455c6:1'
+	139 :   OK                'Shape'             OID '1545416f-c778-11b2-b657-001d48e455c6:2'
+	140 :   OK                'Shape'             OID '1545416f-c778-11b2-b657-001d48e455c6:3'
+	141 :   OK                'Shape'             OID '1545416f-c778-11b2-b657-001d48e455c6:4'
+	142 :   OK                'Shape'             OID '15461ce4-c778-11b2-b657-001d48e455c6:0'
+	143 :   OK                'Shape'             OID '15461ce4-c778-11b2-b657-001d48e455c6:1'
+	144 :   OK                'Shape'             OID '15461ce4-c778-11b2-b657-001d48e455c6:2'
+	145 :   OK                'Shape'             OID '168cf8ce-c778-11b2-b657-001d48e455c6:0'
+	146 :   OK                'Shape'             OID '168cf8ce-c778-11b2-b657-001d48e455c6:1'
+	147 :   OK                'Shape'             OID '168cf8ce-c778-11b2-b657-001d48e455c6:2'
+	148 :   OK                'Shape'             OID '168cf8ce-c778-11b2-b657-001d48e455c6:3'
+	149 :   OK                'Shape'             OID '168e09b2-c778-11b2-b657-001d48e455c6:0'
+	150 :   OK                'Shape'             OID '168e09b2-c778-11b2-b657-001d48e455c6:1'
+	151 :   OK                'Shape'             OID '168e09b2-c778-11b2-b657-001d48e455c6:2'
+	152 :   OK                'Shape'             OID '16e6fda6-c778-11b2-b657-001d48e455c6:0'
+	153 :   OK                'Shape'             OID '16e6fda6-c778-11b2-b657-001d48e455c6:1'
+	154 :   OK                'Shape'             OID '16e6fda6-c778-11b2-b657-001d48e455c6:2'
+	155 :   OK                'Shape'             OID '16f8006e-c778-11b2-b657-001d48e455c6:0'
+	156 :   OK                'Shape'             OID '16f8006e-c778-11b2-b657-001d48e455c6:1'
+	157 :   OK                'Shape'             OID '16f8006e-c778-11b2-b657-001d48e455c6:2'
+	158 :   OK                'Shape'             OID '16f8006e-c778-11b2-b657-001d48e455c6:3'
+	159 :   OK                'Shape'             OID '16f944d8-c778-11b2-b657-001d48e455c6:0'
+	160 :   OK                'Shape'             OID '16f944d8-c778-11b2-b657-001d48e455c6:1'
+	161 :   OK                'Shape'             OID '16f944d8-c778-11b2-b657-001d48e455c6:2'
+	162 :   OK                'Shape'             OID '173474e3-c778-11b2-b657-001d48e455c6:0'
+	163 :   OK                'Shape'             OID '173474e3-c778-11b2-b657-001d48e455c6:1'
+	164 :   OK                'Shape'             OID '173474e3-c778-11b2-b657-001d48e455c6:2'
+	165 :   OK                'Shape'             OID '17973648-c778-11b2-b657-001d48e455c6:0'
+	166 :   OK                'Shape'             OID '17973648-c778-11b2-b657-001d48e455c6:1'
+	167 :   OK                'Shape'             OID '17973648-c778-11b2-b657-001d48e455c6:2'
+	168 :   OK                'Shape'             OID '17985a41-c778-11b2-b657-001d48e455c6:0'
+	169 :   OK                'Shape'             OID '17985a41-c778-11b2-b657-001d48e455c6:1'
+	170 :   OK                'Shape'             OID '17985a41-c778-11b2-b657-001d48e455c6:2'
+	171 :   OK                'Shape'             OID '1cba0afd-c778-11b2-b657-001d48e455c6:0'
+	172 :   OK                'Shape'             OID '1cba0afd-c778-11b2-b657-001d48e455c6:1'
+	173 :   OK                'Shape'             OID '1cba0afd-c778-11b2-b657-001d48e455c6:2'
+	174 :   OK                'Shape'             OID '1cf0ba68-c778-11b2-b657-001d48e455c6:0'
+	175 :   OK                'Shape'             OID '1cf0ba68-c778-11b2-b657-001d48e455c6:1'
+	176 :   OK                'Shape'             OID '1cf0ba68-c778-11b2-b657-001d48e455c6:2'
+	177 :   OK                'Shape'             OID '1cf0ba68-c778-11b2-b657-001d48e455c6:3'
+	178 :   OK                'Shape'             OID '1d3f8b0d-c778-11b2-b657-001d48e455c6:0'
+	179 :   OK                'Shape'             OID '1d3f8b0d-c778-11b2-b657-001d48e455c6:1'
+	180 :   OK                'Shape'             OID '1d3f8b0d-c778-11b2-b657-001d48e455c6:2'
+	181 :   OK                'Shape'             OID '1d408322-c778-11b2-b657-001d48e455c6:0'
+	182 :   OK                'Shape'             OID '1d408322-c778-11b2-b657-001d48e455c6:1'
+	183 :   OK                'Shape'             OID '1d408322-c778-11b2-b657-001d48e455c6:2'
+	184 :   OK                'Shape'             OID '2293c817-c778-11b2-b657-001d48e455c6:0'
+	185 :   OK                'Shape'             OID '2293c817-c778-11b2-b657-001d48e455c6:1'
+	186 :   OK                'Shape'             OID '2293c817-c778-11b2-b657-001d48e455c6:2'
+	187 :   OK                'Shape'             OID '2293c817-c778-11b2-b657-001d48e455c6:3'
+	188 :   OK                'Shape'             OID '2294d8fb-c778-11b2-b657-001d48e455c6:0'
+	189 :   OK                'Shape'             OID '2294d8fb-c778-11b2-b657-001d48e455c6:1'
+	190 :   OK                'Shape'             OID '2294d8fb-c778-11b2-b657-001d48e455c6:2'
+	191 :   OK                'Shape'             OID '22a1a3a7-c778-11b2-b657-001d48e455c6:0'
+	192 :   OK                'Shape'             OID '22a1a3a7-c778-11b2-b657-001d48e455c6:1'
+	193 :   OK                'Shape'             OID '22a1a3a7-c778-11b2-b657-001d48e455c6:2'
+	194 :   OK                'Shape'             OID '22a37548-c778-11b2-b657-001d48e455c6:0'
+	195 :   OK                'Shape'             OID '22a37548-c778-11b2-b657-001d48e455c6:1'
+	196 :   OK                'Shape'             OID '22a37548-c778-11b2-b657-001d48e455c6:2'
+	197 :   OK                'Shape'             OID '24aacdc7-c778-11b2-b657-001d48e455c6:0'
+	198 :   OK                'Shape'             OID '24aacdc7-c778-11b2-b657-001d48e455c6:1'
+	199 :   OK                'Shape'             OID '24aacdc7-c778-11b2-b657-001d48e455c6:2'
+	200 :   OK                'Shape'             OID '2a1ebb13-c778-11b2-b657-001d48e455c6:0'
+	201 :   OK                'Shape'             OID '2a1ebb13-c778-11b2-b657-001d48e455c6:1'
+	202 :   OK                'Shape'             OID '2a1ebb13-c778-11b2-b657-001d48e455c6:2'
+	203 :   OK                'Shape'             OID '2a1ebb13-c778-11b2-b657-001d48e455c6:3'
+	204 :   OK                'Shape'             OID '2a1f7db9-c778-11b2-b657-001d48e455c6:0'
+	205 :   OK                'Shape'             OID '2a1f7db9-c778-11b2-b657-001d48e455c6:1'
+	206 :   OK                'Shape'             OID '2a1f7db9-c778-11b2-b657-001d48e455c6:2'
+	207 :   OK                'Shape'             OID '2a48f1e1-c778-11b2-b657-001d48e455c6:0'
+	208 :   OK                'Shape'             OID '2a48f1e1-c778-11b2-b657-001d48e455c6:1'
+	209 :   OK                'Shape'             OID '2a48f1e1-c778-11b2-b657-001d48e455c6:2'
+	210 :   OK                'Shape'             OID '2a49b487-c778-11b2-b657-001d48e455c6:0'
+	211 :   OK                'Shape'             OID '2a49b487-c778-11b2-b657-001d48e455c6:1'
+	212 :   OK                'Shape'             OID '2a49b487-c778-11b2-b657-001d48e455c6:2'
+	213 :   OK                'Shape'             OID '2a83db50-c778-11b2-b657-001d48e455c6:0'
+	214 :   OK                'Shape'             OID '2a83db50-c778-11b2-b657-001d48e455c6:1'
+	215 :   OK                'Shape'             OID '2a83db50-c778-11b2-b657-001d48e455c6:2'
+	216 :   OK                'Shape'             OID '2a85a54f-c778-11b2-b657-001d48e455c6:0'
+	217 :   OK                'Shape'             OID '2a85a54f-c778-11b2-b657-001d48e455c6:1'
+	218 :   OK                'Shape'             OID '2a85a54f-c778-11b2-b657-001d48e455c6:2'
+	219 :   OK                'Shape'             OID '2c2238f8-c778-11b2-b657-001d48e455c6:0'
+	220 :   OK                'Shape'             OID '2c2238f8-c778-11b2-b657-001d48e455c6:1'
+	221 :   OK                'Shape'             OID '2c2238f8-c778-11b2-b657-001d48e455c6:2'
+	222 :   OK                'Shape'             OID '2c22ec5a-c778-11b2-b657-001d48e455c6:0'
+	223 :   OK                'Shape'             OID '2c22ec5a-c778-11b2-b657-001d48e455c6:1'
+	224 :   OK                'Shape'             OID '2c22ec5a-c778-11b2-b657-001d48e455c6:2'
+	225 :   OK                'Shape'             OID '337626a9-c778-11b2-b657-001d48e455c6:0'
+	226 :   OK                'Shape'             OID '337626a9-c778-11b2-b657-001d48e455c6:1'
+	227 :   OK                'Shape'             OID '337626a9-c778-11b2-b657-001d48e455c6:2'
+	228 :   OK                'Shape'             OID '343af057-c778-11b2-b657-001d48e455c6:0'
+	229 :   OK                'Shape'             OID '343af057-c778-11b2-b657-001d48e455c6:1'
+	230 :   OK                'Shape'             OID '343af057-c778-11b2-b657-001d48e455c6:2'
+	231 :   OK                'Shape'             OID '343af057-c778-11b2-b657-001d48e455c6:3'
+	232 :   OK                'Shape'             OID '343b8901-c778-11b2-b657-001d48e455c6:0'
+	233 :   OK                'Shape'             OID '343b8901-c778-11b2-b657-001d48e455c6:1'
+	234 :   OK                'Shape'             OID '343b8901-c778-11b2-b657-001d48e455c6:2'
+	235 :   OK                'Shape'             OID '3a80c223-c778-11b2-b657-001d48e455c6:0'
+	236 :   OK                'Shape'             OID '3a80c223-c778-11b2-b657-001d48e455c6:1'
+	237 :   OK                'Shape'             OID '3a80c223-c778-11b2-b657-001d48e455c6:2'
+	238 :   OK                'Shape'             OID '3a81cb65-c778-11b2-b657-001d48e455c6:0'
+	239 :   OK                'Shape'             OID '3a81cb65-c778-11b2-b657-001d48e455c6:1'
+	240 :   OK                'Shape'             OID '3a81cb65-c778-11b2-b657-001d48e455c6:2'
+	241 :   OK                'Shape'             OID '3aed476d-c778-11b2-b657-001d48e455c6:0'
+	242 :   OK                'Shape'             OID '3aed476d-c778-11b2-b657-001d48e455c6:1'
+	243 :   OK                'Shape'             OID '3aed476d-c778-11b2-b657-001d48e455c6:2'
+	244 :   OK                'Shape'             OID '3aed476d-c778-11b2-b657-001d48e455c6:3'
+	245 :   OK                'Shape'             OID '3aee3f82-c778-11b2-b657-001d48e455c6:0'
+	246 :   OK                'Shape'             OID '3aee3f82-c778-11b2-b657-001d48e455c6:1'
+	247 :   OK                'Shape'             OID '3aee3f82-c778-11b2-b657-001d48e455c6:2'
+	248 :   OK                'Shape'             OID '3afb37fb-c778-11b2-b657-001d48e455c6:0'
+	249 :   OK                'Shape'             OID '3afb37fb-c778-11b2-b657-001d48e455c6:1'
+	250 :   OK                'Shape'             OID '3afb37fb-c778-11b2-b657-001d48e455c6:2'
+	251 :   OK                'Shape'             OID '3afb37fb-c778-11b2-b657-001d48e455c6:3'
+	252 :   OK                'Shape'             OID '3afc4ac7-c778-11b2-b657-001d48e455c6:0'
+	253 :   OK                'Shape'             OID '3afc4ac7-c778-11b2-b657-001d48e455c6:1'
+	254 :   OK                'Shape'             OID '3afc4ac7-c778-11b2-b657-001d48e455c6:2'
+	255 :   OK                'Shape'             OID '3b08f6eb-c778-11b2-b657-001d48e455c6:0'
+	256 :   OK                'Shape'             OID '3b08f6eb-c778-11b2-b657-001d48e455c6:1'
+	257 :   OK                'Shape'             OID '3b08f6eb-c778-11b2-b657-001d48e455c6:2'
+	258 :   OK                'Shape'             OID '3b08f6eb-c778-11b2-b657-001d48e455c6:3'
+	259 :   OK                'Shape'             OID '3b0a4c82-c778-11b2-b657-001d48e455c6:0'
+	260 :   OK                'Shape'             OID '3b0a4c82-c778-11b2-b657-001d48e455c6:1'
+	261 :   OK                'Shape'             OID '3b0a4c82-c778-11b2-b657-001d48e455c6:2'
+	262 :   OK                'Shape'             OID '3b0cf1f6-c778-11b2-b657-001d48e455c6:0'
+	263 :   OK                'Shape'             OID '3b0cf1f6-c778-11b2-b657-001d48e455c6:1'
+	264 :   OK                'Shape'             OID '3b0cf1f6-c778-11b2-b657-001d48e455c6:2'
+	265 :   OK                'Shape'             OID '3b0d1267-c778-11b2-b657-001d48e455c6:0'
+	266 :   OK                'Shape'             OID '3b0d1267-c778-11b2-b657-001d48e455c6:1'
+	267 :   OK                'Shape'             OID '3b0d1267-c778-11b2-b657-001d48e455c6:2'
+	268 :   OK                'Shape'             OID '3b1d044b-c778-11b2-b657-001d48e455c6:0'
+	269 :   OK                'Shape'             OID '3b1d044b-c778-11b2-b657-001d48e455c6:1'
+	270 :   OK                'Shape'             OID '3b1d044b-c778-11b2-b657-001d48e455c6:2'
+	271 :   OK                'Shape'             OID '3b1d044b-c778-11b2-b657-001d48e455c6:3'
+	272 :   OK                'Shape'             OID '3b1e44e4-c778-11b2-b657-001d48e455c6:0'
+	273 :   OK                'Shape'             OID '3b1e44e4-c778-11b2-b657-001d48e455c6:1'
+	274 :   OK                'Shape'             OID '3b1e44e4-c778-11b2-b657-001d48e455c6:2'
+	275 :   OK                'Shape'             OID '3b2c31a1-c778-11b2-b657-001d48e455c6:0'
+	276 :   OK                'Shape'             OID '3b2c31a1-c778-11b2-b657-001d48e455c6:1'
+	277 :   OK                'Shape'             OID '3b2c31a1-c778-11b2-b657-001d48e455c6:2'
+	278 :   OK                'Shape'             OID '3b2c31a1-c778-11b2-b657-001d48e455c6:3'
+	279 :   OK                'Shape'             OID '3b2ce6eb-c778-11b2-b657-001d48e455c6:0'
+	280 :   OK                'Shape'             OID '3b2ce6eb-c778-11b2-b657-001d48e455c6:1'
+	281 :   OK                'Shape'             OID '3b2ce6eb-c778-11b2-b657-001d48e455c6:2'
+	282 :   OK                'Shape'             OID '3b35fb40-c778-11b2-b657-001d48e455c6:0'
+	283 :   OK                'Shape'             OID '3b35fb40-c778-11b2-b657-001d48e455c6:1'
+	284 :   OK                'Shape'             OID '3b35fb40-c778-11b2-b657-001d48e455c6:2'
+	285 :   OK                'Shape'             OID '3b35fb40-c778-11b2-b657-001d48e455c6:3'
+	286 :   OK                'Shape'             OID '3b36c39f-c778-11b2-b657-001d48e455c6:0'
+	287 :   OK                'Shape'             OID '3b36c39f-c778-11b2-b657-001d48e455c6:1'
+	288 :   OK                'Shape'             OID '3b36c39f-c778-11b2-b657-001d48e455c6:2'
+	289 :   OK                'Shape'             OID '3b443a0b-c778-11b2-b657-001d48e455c6:0'
+	290 :   OK                'Shape'             OID '3b443a0b-c778-11b2-b657-001d48e455c6:1'
+	291 :   OK                'Shape'             OID '3b443a0b-c778-11b2-b657-001d48e455c6:2'
+	292 :   OK                'Shape'             OID '3b443a0b-c778-11b2-b657-001d48e455c6:3'
+	293 :   OK                'Shape'             OID '3b44da58-c778-11b2-b657-001d48e455c6:0'
+	294 :   OK                'Shape'             OID '3b44da58-c778-11b2-b657-001d48e455c6:1'
+	295 :   OK                'Shape'             OID '3b44da58-c778-11b2-b657-001d48e455c6:2'
+	296 :   OK                'Shape'             OID '3b4cfe3a-c778-11b2-b657-001d48e455c6:0'
+	297 :   OK                'Shape'             OID '3b4cfe3a-c778-11b2-b657-001d48e455c6:1'
+	298 :   OK                'Shape'             OID '3b4cfe3a-c778-11b2-b657-001d48e455c6:2'
+	299 :   OK                'Shape'             OID '3b5fd0ba-c778-11b2-b657-001d48e455c6:0'
+	300 :   OK                'Shape'             OID '3b5fd0ba-c778-11b2-b657-001d48e455c6:1'
+	301 :   OK                'Shape'             OID '3b5fd0ba-c778-11b2-b657-001d48e455c6:2'
+	302 :   OK                'Shape'             OID '3b5fd0ba-c778-11b2-b657-001d48e455c6:3'
+	303 :   OK                'Shape'             OID '3b61dd84-c778-11b2-b657-001d48e455c6:0'
+	304 :   OK                'Shape'             OID '3b61dd84-c778-11b2-b657-001d48e455c6:1'
+	305 :   OK                'Shape'             OID '3b61dd84-c778-11b2-b657-001d48e455c6:2'
+	306 :   OK                'Shape'             OID '3b64ea04-c778-11b2-b657-001d48e455c6:0'
+	307 :   OK                'Shape'             OID '3b64ea04-c778-11b2-b657-001d48e455c6:1'
+	308 :   OK                'Shape'             OID '3b64ea04-c778-11b2-b657-001d48e455c6:2'
+	309 :   OK                'Shape'             OID '3b65088d-c778-11b2-b657-001d48e455c6:0'
+	310 :   OK                'Shape'             OID '3b65088d-c778-11b2-b657-001d48e455c6:1'
+	311 :   OK                'Shape'             OID '3b65088d-c778-11b2-b657-001d48e455c6:2'
+	312 :   OK                'Shape'             OID '3b75c2d1-c778-11b2-b657-001d48e455c6:0'
+	313 :   OK                'Shape'             OID '3b75c2d1-c778-11b2-b657-001d48e455c6:1'
+	314 :   OK                'Shape'             OID '3b75c2d1-c778-11b2-b657-001d48e455c6:2'
+	315 :   OK                'Shape'             OID '3b7692d2-c778-11b2-b657-001d48e455c6:0'
+	316 :   OK                'Shape'             OID '3b7692d2-c778-11b2-b657-001d48e455c6:1'
+	317 :   OK                'Shape'             OID '3b7692d2-c778-11b2-b657-001d48e455c6:2'
+	318 :   OK                'Shape'             OID '3b8468a9-c778-11b2-b657-001d48e455c6:0'
+	319 :   OK                'Shape'             OID '3b8468a9-c778-11b2-b657-001d48e455c6:1'
+	320 :   OK                'Shape'             OID '3b8468a9-c778-11b2-b657-001d48e455c6:2'
+	321 :   OK                'Shape'             OID '3b8468a9-c778-11b2-b657-001d48e455c6:3'
+	322 :   OK                'Shape'             OID '3b85c211-c778-11b2-b657-001d48e455c6:0'
+	323 :   OK                'Shape'             OID '3b85c211-c778-11b2-b657-001d48e455c6:1'
+	324 :   OK                'Shape'             OID '3b85c211-c778-11b2-b657-001d48e455c6:2'
+	325 :   OK                'Shape'             OID '3b8e976c-c778-11b2-b657-001d48e455c6:0'
+	326 :   OK                'Shape'             OID '3b8e976c-c778-11b2-b657-001d48e455c6:1'
+	327 :   OK                'Shape'             OID '3b8e976c-c778-11b2-b657-001d48e455c6:2'
+	328 :   OK                'Shape'             OID '3b9ca86b-c778-11b2-b657-001d48e455c6:0'
+	329 :   OK                'Shape'             OID '3b9ca86b-c778-11b2-b657-001d48e455c6:1'
+	330 :   OK                'Shape'             OID '3b9ca86b-c778-11b2-b657-001d48e455c6:2'
+	331 :   OK                'Shape'             OID '3babf631-c778-11b2-b657-001d48e455c6:0'
+	332 :   OK                'Shape'             OID '3babf631-c778-11b2-b657-001d48e455c6:1'
+	333 :   OK                'Shape'             OID '3babf631-c778-11b2-b657-001d48e455c6:2'
+	334 :   OK                'Shape'             OID '3babf631-c778-11b2-b657-001d48e455c6:3'
+	335 :   OK                'Shape'             OID '3babf631-c778-11b2-b657-001d48e455c6:4'
+	336 :   OK                'Shape'             OID '3bad6680-c778-11b2-b657-001d48e455c6:0'
+	337 :   OK                'Shape'             OID '3bad6680-c778-11b2-b657-001d48e455c6:1'
+	338 :   OK                'Shape'             OID '3bad6680-c778-11b2-b657-001d48e455c6:2'
+	339 :   OK                'Shape'             OID '3bb6ae5b-c778-11b2-b657-001d48e455c6:0'
+	340 :   OK                'Shape'             OID '3bb6ae5b-c778-11b2-b657-001d48e455c6:1'
+	341 :   OK                'Shape'             OID '3bb6ae5b-c778-11b2-b657-001d48e455c6:2'
+	342 :   OK                'Shape'             OID '3bb6ae5b-c778-11b2-b657-001d48e455c6:3'
+	343 :   OK                'Shape'             OID '3bb79ecd-c778-11b2-b657-001d48e455c6:0'
+	344 :   OK                'Shape'             OID '3bb79ecd-c778-11b2-b657-001d48e455c6:1'
+	345 :   OK                'Shape'             OID '3bb79ecd-c778-11b2-b657-001d48e455c6:2'
+	346 :   OK                'Shape'             OID '3bba9838-c778-11b2-b657-001d48e455c6:0'
+	347 :   OK                'Shape'             OID '3bba9838-c778-11b2-b657-001d48e455c6:1'
+	348 :   OK                'Shape'             OID '3bba9838-c778-11b2-b657-001d48e455c6:2'
+	349 :   OK                'Shape'             OID '3bbabc7a-c778-11b2-b657-001d48e455c6:0'
+	350 :   OK                'Shape'             OID '3bbabc7a-c778-11b2-b657-001d48e455c6:1'
+	351 :   OK                'Shape'             OID '3bbabc7a-c778-11b2-b657-001d48e455c6:2'
+	352 :   OK                'Shape'             OID '3bd0aca8-c778-11b2-b657-001d48e455c6:0'
+	353 :   OK                'Shape'             OID '3bd0aca8-c778-11b2-b657-001d48e455c6:1'
+	354 :   OK                'Shape'             OID '3bd0aca8-c778-11b2-b657-001d48e455c6:2'
+	355 :   OK                'Shape'             OID '3bd0aca8-c778-11b2-b657-001d48e455c6:3'
+	356 :   OK                'Shape'             OID '3bd24ac3-c778-11b2-b657-001d48e455c6:0'
+	357 :   OK                'Shape'             OID '3bd24ac3-c778-11b2-b657-001d48e455c6:1'
+	358 :   OK                'Shape'             OID '3bd24ac3-c778-11b2-b657-001d48e455c6:2'
+	359 :   OK                'Shape'             OID '3bdc7b6f-c778-11b2-b657-001d48e455c6:0'
+	360 :   OK                'Shape'             OID '3bdc7b6f-c778-11b2-b657-001d48e455c6:1'
+	361 :   OK                'Shape'             OID '3bdc7b6f-c778-11b2-b657-001d48e455c6:2'
+	362 :   OK                'Shape'             OID '3bdc7b6f-c778-11b2-b657-001d48e455c6:3'
+	363 :   OK                'Shape'             OID '3bde212c-c778-11b2-b657-001d48e455c6:0'
+	364 :   OK                'Shape'             OID '3bde212c-c778-11b2-b657-001d48e455c6:1'
+	365 :   OK                'Shape'             OID '3bde212c-c778-11b2-b657-001d48e455c6:2'
+	366 :   OK                'Shape'             OID '3be15b79-c778-11b2-b657-001d48e455c6:0'
+	367 :   OK                'Shape'             OID '3be15b79-c778-11b2-b657-001d48e455c6:1'
+	368 :   OK                'Shape'             OID '3be15b79-c778-11b2-b657-001d48e455c6:2'
+	369 :   OK                'Shape'             OID '3be17dd2-c778-11b2-b657-001d48e455c6:0'
+	370 :   OK                'Shape'             OID '3be17dd2-c778-11b2-b657-001d48e455c6:1'
+	371 :   OK                'Shape'             OID '3be17dd2-c778-11b2-b657-001d48e455c6:2'
+	372 :   OK                'Shape'             OID '3bf94373-c778-11b2-b657-001d48e455c6:0'
+	373 :   OK                'Shape'             OID '3bf94373-c778-11b2-b657-001d48e455c6:1'
+	374 :   OK                'Shape'             OID '3bf94373-c778-11b2-b657-001d48e455c6:2'
+	375 :   OK                'Shape'             OID '3bf94373-c778-11b2-b657-001d48e455c6:3'
+	376 :   OK                'Shape'             OID '3bfa0618-c778-11b2-b657-001d48e455c6:0'
+	377 :   OK                'Shape'             OID '3bfa0618-c778-11b2-b657-001d48e455c6:1'
+	378 :   OK                'Shape'             OID '3bfa0618-c778-11b2-b657-001d48e455c6:2'
+	379 :   OK                'Shape'             OID '3c03577e-c778-11b2-b657-001d48e455c6:0'
+	380 :   OK                'Shape'             OID '3c03577e-c778-11b2-b657-001d48e455c6:1'
+	381 :   OK                'Shape'             OID '3c03577e-c778-11b2-b657-001d48e455c6:2'
+	382 :   OK                'Shape'             OID '3c03577e-c778-11b2-b657-001d48e455c6:3'
+	383 :   OK                'Shape'             OID '3c03577e-c778-11b2-b657-001d48e455c6:4'
+	384 :   OK                'Shape'             OID '3c040155-c778-11b2-b657-001d48e455c6:0'
+	385 :   OK                'Shape'             OID '3c040155-c778-11b2-b657-001d48e455c6:1'
+	386 :   OK                'Shape'             OID '3c040155-c778-11b2-b657-001d48e455c6:2'
+	387 :   OK                'Shape'             OID '3c174285-c778-11b2-b657-001d48e455c6:0'
+	388 :   OK                'Shape'             OID '3c174285-c778-11b2-b657-001d48e455c6:1'
+	389 :   OK                'Shape'             OID '3c174285-c778-11b2-b657-001d48e455c6:2'
+	390 :   OK                'Shape'             OID '3c174285-c778-11b2-b657-001d48e455c6:3'
+	391 :   OK                'Shape'             OID '3c174285-c778-11b2-b657-001d48e455c6:4'
+	392 :   OK                'Shape'             OID '3c18d15b-c778-11b2-b657-001d48e455c6:0'
+	393 :   OK                'Shape'             OID '3c18d15b-c778-11b2-b657-001d48e455c6:1'
+	394 :   OK                'Shape'             OID '3c18d15b-c778-11b2-b657-001d48e455c6:2'
+	395 :   OK                'Shape'             OID '3c260314-c778-11b2-b657-001d48e455c6:0'
+	396 :   OK                'Shape'             OID '3c260314-c778-11b2-b657-001d48e455c6:1'
+	397 :   OK                'Shape'             OID '3c260314-c778-11b2-b657-001d48e455c6:2'
+	398 :   OK                'Shape'             OID '3c39b8ac-c778-11b2-b657-001d48e455c6:0'
+	399 :   OK                'Shape'             OID '3c39b8ac-c778-11b2-b657-001d48e455c6:1'
+	400 :   OK                'Shape'             OID '3c39b8ac-c778-11b2-b657-001d48e455c6:2'
+	401 :   OK                'Shape'             OID '3c39b8ac-c778-11b2-b657-001d48e455c6:3'
+	402 :   OK                'Shape'             OID '3c3b69dc-c778-11b2-b657-001d48e455c6:0'
+	403 :   OK                'Shape'             OID '3c3b69dc-c778-11b2-b657-001d48e455c6:1'
+	404 :   OK                'Shape'             OID '3c3b69dc-c778-11b2-b657-001d48e455c6:2'
+	405 :   OK                'Shape'             OID '3c3e3d1c-c778-11b2-b657-001d48e455c6:0'
+	406 :   OK                'Shape'             OID '3c3e3d1c-c778-11b2-b657-001d48e455c6:1'
+	407 :   OK                'Shape'             OID '3c3e3d1c-c778-11b2-b657-001d48e455c6:2'
+	408 :   OK                'Shape'             OID '3c3e5d8d-c778-11b2-b657-001d48e455c6:0'
+	409 :   OK                'Shape'             OID '3c3e5d8d-c778-11b2-b657-001d48e455c6:1'
+	410 :   OK                'Shape'             OID '3c3e5d8d-c778-11b2-b657-001d48e455c6:2'
+	411 :   OK                'Shape'             OID '3c511cf9-c778-11b2-b657-001d48e455c6:0'
+	412 :   OK                'Shape'             OID '3c511cf9-c778-11b2-b657-001d48e455c6:1'
+	413 :   OK                'Shape'             OID '3c511cf9-c778-11b2-b657-001d48e455c6:2'
+	414 :   OK                'Shape'             OID '3c511cf9-c778-11b2-b657-001d48e455c6:3'
+	415 :   OK                'Shape'             OID '3c511cf9-c778-11b2-b657-001d48e455c6:4'
+	416 :   OK                'Shape'             OID '3c522452-c778-11b2-b657-001d48e455c6:0'
+	417 :   OK                'Shape'             OID '3c522452-c778-11b2-b657-001d48e455c6:1'
+	418 :   OK                'Shape'             OID '3c522452-c778-11b2-b657-001d48e455c6:2'
+	419 :   OK                'Shape'             OID '3c5cfb03-c778-11b2-b657-001d48e455c6:0'
+	420 :   OK                'Shape'             OID '3c5cfb03-c778-11b2-b657-001d48e455c6:1'
+	421 :   OK                'Shape'             OID '3c5cfb03-c778-11b2-b657-001d48e455c6:2'
+	422 :   OK                'Shape'             OID '3c5e78ad-c778-11b2-b657-001d48e455c6:0'
+	423 :   OK                'Shape'             OID '3c5e78ad-c778-11b2-b657-001d48e455c6:1'
+	424 :   OK                'Shape'             OID '3c5e78ad-c778-11b2-b657-001d48e455c6:2'
+	425 :   OK                'Shape'             OID '3c6a4774-c778-11b2-b657-001d48e455c6:0'
+	426 :   OK                'Shape'             OID '3c6a4774-c778-11b2-b657-001d48e455c6:1'
+	427 :   OK                'Shape'             OID '3c6a4774-c778-11b2-b657-001d48e455c6:2'
+	428 :   OK                'Shape'             OID '3c6a4774-c778-11b2-b657-001d48e455c6:3'
+	429 :   OK                'Shape'             OID '3c6b5e11-c778-11b2-b657-001d48e455c6:0'
+	430 :   OK                'Shape'             OID '3c6b5e11-c778-11b2-b657-001d48e455c6:1'
+	431 :   OK                'Shape'             OID '3c6b5e11-c778-11b2-b657-001d48e455c6:2'
+	432 :   OK                'Shape'             OID '3c76dcb1-c778-11b2-b657-001d48e455c6:0'
+	433 :   OK                'Shape'             OID '3c76dcb1-c778-11b2-b657-001d48e455c6:1'
+	434 :   OK                'Shape'             OID '3c76dcb1-c778-11b2-b657-001d48e455c6:2'
+	435 :   OK                'Shape'             OID '3c76dcb1-c778-11b2-b657-001d48e455c6:3'
+	436 :   OK                'Shape'             OID '3c77c953-c778-11b2-b657-001d48e455c6:0'
+	437 :   OK                'Shape'             OID '3c77c953-c778-11b2-b657-001d48e455c6:1'
+	438 :   OK                'Shape'             OID '3c77c953-c778-11b2-b657-001d48e455c6:2'
+	439 :   OK                'Shape'             OID '3c8471a6-c778-11b2-b657-001d48e455c6:0'
+	440 :   OK                'Shape'             OID '3c8471a6-c778-11b2-b657-001d48e455c6:1'
+	441 :   OK                'Shape'             OID '3c8471a6-c778-11b2-b657-001d48e455c6:2'
+	442 :   OK                'Shape'             OID '3c8f4a40-c778-11b2-b657-001d48e455c6:0'
+	443 :   OK                'Shape'             OID '3c8f4a40-c778-11b2-b657-001d48e455c6:1'
+	444 :   OK                'Shape'             OID '3c8f4a40-c778-11b2-b657-001d48e455c6:2'
+	445 :   OK                'Shape'             OID '3c8f4a40-c778-11b2-b657-001d48e455c6:3'
+	446 :   OK                'Shape'             OID '3c90593b-c778-11b2-b657-001d48e455c6:0'
+	447 :   OK                'Shape'             OID '3c90593b-c778-11b2-b657-001d48e455c6:1'
+	448 :   OK                'Shape'             OID '3c90593b-c778-11b2-b657-001d48e455c6:2'
+	449 :   OK                'Shape'             OID '3ca0029b-c778-11b2-b657-001d48e455c6:0'
+	450 :   OK                'Shape'             OID '3ca0029b-c778-11b2-b657-001d48e455c6:1'
+	451 :   OK                'Shape'             OID '3ca0029b-c778-11b2-b657-001d48e455c6:2'
+	452 :   OK                'Shape'             OID '3caca71d-c778-11b2-b657-001d48e455c6:0'
+	453 :   OK                'Shape'             OID '3caca71d-c778-11b2-b657-001d48e455c6:1'
+	454 :   OK                'Shape'             OID '3caca71d-c778-11b2-b657-001d48e455c6:2'
+	455 :   OK                'Shape'             OID '3cbdf080-c778-11b2-b657-001d48e455c6:0'
+	456 :   OK                'Shape'             OID '3cbdf080-c778-11b2-b657-001d48e455c6:1'
+	457 :   OK                'Shape'             OID '3cbdf080-c778-11b2-b657-001d48e455c6:2'
+	458 :   OK                'Shape'             OID '3cbdf080-c778-11b2-b657-001d48e455c6:3'
+	459 :   OK                'Shape'             OID '3cbf5cfe-c778-11b2-b657-001d48e455c6:0'
+	460 :   OK                'Shape'             OID '3cbf5cfe-c778-11b2-b657-001d48e455c6:1'
+	461 :   OK                'Shape'             OID '3cbf5cfe-c778-11b2-b657-001d48e455c6:2'
+	462 :   OK                'Shape'             OID '3cc20bfc-c778-11b2-b657-001d48e455c6:0'
+	463 :   OK                'Shape'             OID '3cc20bfc-c778-11b2-b657-001d48e455c6:1'
+	464 :   OK                'Shape'             OID '3cc20bfc-c778-11b2-b657-001d48e455c6:2'
+	465 :   OK                'Shape'             OID '3cc23227-c778-11b2-b657-001d48e455c6:0'
+	466 :   OK                'Shape'             OID '3cc23227-c778-11b2-b657-001d48e455c6:1'
+	467 :   OK                'Shape'             OID '3cc23227-c778-11b2-b657-001d48e455c6:2'
+	468 :   OK                'Shape'             OID '3cd5c936-c778-11b2-b657-001d48e455c6:0'
+	469 :   OK                'Shape'             OID '3cd5c936-c778-11b2-b657-001d48e455c6:1'
+	470 :   OK                'Shape'             OID '3cd5c936-c778-11b2-b657-001d48e455c6:2'
+	471 :   OK                'Shape'             OID '3cd5c936-c778-11b2-b657-001d48e455c6:3'
+	472 :   OK                'Shape'             OID '3cd5c936-c778-11b2-b657-001d48e455c6:4'
+	473 :   OK                'Shape'             OID '3cd7c101-c778-11b2-b657-001d48e455c6:0'
+	474 :   OK                'Shape'             OID '3cd7c101-c778-11b2-b657-001d48e455c6:1'
+	475 :   OK                'Shape'             OID '3cd7c101-c778-11b2-b657-001d48e455c6:2'
+	476 :   OK                'Shape'             OID '3ceabf66-c778-11b2-b657-001d48e455c6:0'
+	477 :   OK                'Shape'             OID '3ceabf66-c778-11b2-b657-001d48e455c6:1'
+	478 :   OK                'Shape'             OID '3ceabf66-c778-11b2-b657-001d48e455c6:2'
+	479 :   OK                'Shape'             OID '3ceabf66-c778-11b2-b657-001d48e455c6:3'
+	480 :   OK                'Shape'             OID '3cec0b72-c778-11b2-b657-001d48e455c6:0'
+	481 :   OK                'Shape'             OID '3cec0b72-c778-11b2-b657-001d48e455c6:1'
+	482 :   OK                'Shape'             OID '3cec0b72-c778-11b2-b657-001d48e455c6:2'
+	483 :   OK                'Shape'             OID '3cee798f-c778-11b2-b657-001d48e455c6:0'
+	484 :   OK                'Shape'             OID '3cee798f-c778-11b2-b657-001d48e455c6:1'
+	485 :   OK                'Shape'             OID '3cee798f-c778-11b2-b657-001d48e455c6:2'
+	486 :   OK                'Shape'             OID '3cee9dd1-c778-11b2-b657-001d48e455c6:0'
+	487 :   OK                'Shape'             OID '3cee9dd1-c778-11b2-b657-001d48e455c6:1'
+	488 :   OK                'Shape'             OID '3cee9dd1-c778-11b2-b657-001d48e455c6:2'
+	489 :   OK                'Shape'             OID '3d09440d-c778-11b2-b657-001d48e455c6:0'
+	490 :   OK                'Shape'             OID '3d09440d-c778-11b2-b657-001d48e455c6:1'
+	491 :   OK                'Shape'             OID '3d09440d-c778-11b2-b657-001d48e455c6:2'
+	492 :   OK                'Shape'             OID '3d0a56da-c778-11b2-b657-001d48e455c6:0'
+	493 :   OK                'Shape'             OID '3d0a56da-c778-11b2-b657-001d48e455c6:1'
+	494 :   OK                'Shape'             OID '3d0a56da-c778-11b2-b657-001d48e455c6:2'
+	495 :   OK                'Shape'             OID '3d16686b-c778-11b2-b657-001d48e455c6:0'
+	496 :   OK                'Shape'             OID '3d16686b-c778-11b2-b657-001d48e455c6:1'
+	497 :   OK                'Shape'             OID '3d16686b-c778-11b2-b657-001d48e455c6:2'
+	498 :   OK                'Shape'             OID '3d2f097f-c778-11b2-b657-001d48e455c6:0'
+	499 :   OK                'Shape'             OID '3d2f097f-c778-11b2-b657-001d48e455c6:1'
+	500 :   OK                'Shape'             OID '3d2f097f-c778-11b2-b657-001d48e455c6:2'
+	501 :   OK                'Shape'             OID '3d2f097f-c778-11b2-b657-001d48e455c6:3'
+	502 :   OK                'Shape'             OID '3d314f89-c778-11b2-b657-001d48e455c6:0'
+	503 :   OK                'Shape'             OID '3d314f89-c778-11b2-b657-001d48e455c6:1'
+	504 :   OK                'Shape'             OID '3d314f89-c778-11b2-b657-001d48e455c6:2'
+	505 :   OK                'Shape'             OID '3d35ecc8-c778-11b2-b657-001d48e455c6:0'
+	506 :   OK                'Shape'             OID '3d35ecc8-c778-11b2-b657-001d48e455c6:1'
+	507 :   OK                'Shape'             OID '3d35ecc8-c778-11b2-b657-001d48e455c6:2'
+	508 :   OK                'Shape'             OID '3d360968-c778-11b2-b657-001d48e455c6:0'
+	509 :   OK                'Shape'             OID '3d360968-c778-11b2-b657-001d48e455c6:1'
+	510 :   OK                'Shape'             OID '3d360968-c778-11b2-b657-001d48e455c6:2'
+	511 :   OK                'Shape'             OID '3d494a98-c778-11b2-b657-001d48e455c6:0'
+	512 :   OK                'Shape'             OID '3d494a98-c778-11b2-b657-001d48e455c6:1'
+	513 :   OK                'Shape'             OID '3d494a98-c778-11b2-b657-001d48e455c6:2'
+	514 :   OK                'Shape'             OID '3d55a0dc-c778-11b2-b657-001d48e455c6:0'
+	515 :   OK                'Shape'             OID '3d55a0dc-c778-11b2-b657-001d48e455c6:1'
+	516 :   OK                'Shape'             OID '3d55a0dc-c778-11b2-b657-001d48e455c6:2'
+	517 :   OK                'Shape'             OID '3d630061-c778-11b2-b657-001d48e455c6:0'
+	518 :   OK                'Shape'             OID '3d630061-c778-11b2-b657-001d48e455c6:1'
+	519 :   OK                'Shape'             OID '3d630061-c778-11b2-b657-001d48e455c6:2'
+	520 :   OK                'Shape'             OID '66f6bba0-c778-11b2-b657-001d48e455c6:0'
+	521 :   OK                'Shape'             OID '66f6bba0-c778-11b2-b657-001d48e455c6:1'
+	522 :   OK                'Shape'             OID '66f6bba0-c778-11b2-b657-001d48e455c6:2'
+	523 :   OK                'Shape'             OID '6d8507ff-c778-11b2-b657-001d48e455c6:0'
+	524 :   OK                'Shape'             OID '6d8507ff-c778-11b2-b657-001d48e455c6:1'
+	525 :   OK                'Shape'             OID '6d8507ff-c778-11b2-b657-001d48e455c6:2'
+	526 :   OK                'Shape'             OID '6e2b066b-c778-11b2-b657-001d48e455c6:0'
+	527 :   OK                'Shape'             OID '6e2b066b-c778-11b2-b657-001d48e455c6:1'
+	528 :   OK                'Shape'             OID '6e2b066b-c778-11b2-b657-001d48e455c6:2'
+	529 :   OK                'Shape'             OID '6e2b066b-c778-11b2-b657-001d48e455c6:3'
+	530 :   OK                'Shape'             OID '6e2bb22a-c778-11b2-b657-001d48e455c6:0'
+	531 :   OK                'Shape'             OID '6e2bb22a-c778-11b2-b657-001d48e455c6:1'
+	532 :   OK                'Shape'             OID '6e2bb22a-c778-11b2-b657-001d48e455c6:2'
+	533 :   OK                'Shape'             OID '6e37d2ff-c778-11b2-b657-001d48e455c6:0'
+	534 :   OK                'Shape'             OID '6e37d2ff-c778-11b2-b657-001d48e455c6:1'
+	535 :   OK                'Shape'             OID '6e37d2ff-c778-11b2-b657-001d48e455c6:2'
+	536 :   OK                'Shape'             OID '6e37d2ff-c778-11b2-b657-001d48e455c6:3'
+	537 :   OK                'Shape'             OID '6e37d2ff-c778-11b2-b657-001d48e455c6:4'
+	538 :   OK                'Shape'             OID '6e39434e-c778-11b2-b657-001d48e455c6:0'
+	539 :   OK                'Shape'             OID '6e39434e-c778-11b2-b657-001d48e455c6:1'
+	540 :   OK                'Shape'             OID '6e39434e-c778-11b2-b657-001d48e455c6:2'
+	541 :   OK                'Shape'             OID '6e3b5b8a-c778-11b2-b657-001d48e455c6:0'
+	542 :   OK                'Shape'             OID '6e3b5b8a-c778-11b2-b657-001d48e455c6:1'
+	543 :   OK                'Shape'             OID '6e3b5b8a-c778-11b2-b657-001d48e455c6:2'
+	544 :   OK                'Shape'             OID '6e3b7271-c778-11b2-b657-001d48e455c6:0'
+	545 :   OK                'Shape'             OID '6e3b7271-c778-11b2-b657-001d48e455c6:1'
+	546 :   OK                'Shape'             OID '6e3b7271-c778-11b2-b657-001d48e455c6:2'
+	547 :   OK                'Shape'             OID '6e4efc24-c778-11b2-b657-001d48e455c6:0'
+	548 :   OK                'Shape'             OID '6e4efc24-c778-11b2-b657-001d48e455c6:1'
+	549 :   OK                'Shape'             OID '6e4efc24-c778-11b2-b657-001d48e455c6:2'
+	550 :   OK                'Shape'             OID '6e4efc24-c778-11b2-b657-001d48e455c6:3'
+	551 :   OK                'Shape'             OID '6e4fe124-c778-11b2-b657-001d48e455c6:0'
+	552 :   OK                'Shape'             OID '6e4fe124-c778-11b2-b657-001d48e455c6:1'
+	553 :   OK                'Shape'             OID '6e4fe124-c778-11b2-b657-001d48e455c6:2'
+	554 :   OK                'Shape'             OID '6e515ce5-c778-11b2-b657-001d48e455c6:0'
+	555 :   OK                'Shape'             OID '6e515ce5-c778-11b2-b657-001d48e455c6:1'
+	556 :   OK                'Shape'             OID '6e515ce5-c778-11b2-b657-001d48e455c6:2'
+	557 :   OK                'Shape'             OID '6e5175b4-c778-11b2-b657-001d48e455c6:0'
+	558 :   OK                'Shape'             OID '6e5175b4-c778-11b2-b657-001d48e455c6:1'
+	559 :   OK                'Shape'             OID '6e5175b4-c778-11b2-b657-001d48e455c6:2'
+	560 :   OK                'Shape'             OID '6ecb3270-c778-11b2-b657-001d48e455c6:0'
+	561 :   OK                'Shape'             OID '6ecb3270-c778-11b2-b657-001d48e455c6:1'
+	562 :   OK                'Shape'             OID '6ecb3270-c778-11b2-b657-001d48e455c6:2'
+	563 :   OK                'Shape'             OID '6ecb3270-c778-11b2-b657-001d48e455c6:3'
+	564 :   OK                'Shape'             OID '6ecbda5f-c778-11b2-b657-001d48e455c6:0'
+	565 :   OK                'Shape'             OID '6ecbda5f-c778-11b2-b657-001d48e455c6:1'
+	566 :   OK                'Shape'             OID '6ecbda5f-c778-11b2-b657-001d48e455c6:2'
+	567 :   OK                'Shape'             OID '6ed6b8b3-c778-11b2-b657-001d48e455c6:0'
+	568 :   OK                'Shape'             OID '6ed6b8b3-c778-11b2-b657-001d48e455c6:1'
+	569 :   OK                'Shape'             OID '6ed6b8b3-c778-11b2-b657-001d48e455c6:2'
+	570 :   OK                'Shape'             OID '6ed80c61-c778-11b2-b657-001d48e455c6:0'
+	571 :   OK                'Shape'             OID '6ed80c61-c778-11b2-b657-001d48e455c6:1'
+	572 :   OK                'Shape'             OID '6ed80c61-c778-11b2-b657-001d48e455c6:2'
+	573 :   OK                'Shape'             OID '6edcd39c-c778-11b2-b657-001d48e455c6:0'
+	574 :   OK                'Shape'             OID '6edcd39c-c778-11b2-b657-001d48e455c6:1'
+	575 :   OK                'Shape'             OID '6edcd39c-c778-11b2-b657-001d48e455c6:2'
+	576 :   OK                'Shape'             OID '6eee37b7-c778-11b2-b657-001d48e455c6:0'
+	577 :   OK                'Shape'             OID '6eee37b7-c778-11b2-b657-001d48e455c6:1'
+	578 :   OK                'Shape'             OID '6eee37b7-c778-11b2-b657-001d48e455c6:2'
+	579 :   OK                'Shape'             OID '7388262b-c778-11b2-b657-001d48e455c6:0'
+	580 :   OK                'Shape'             OID '7388262b-c778-11b2-b657-001d48e455c6:1'
+	581 :   OK                'Shape'             OID '7388262b-c778-11b2-b657-001d48e455c6:2'
+	582 :   OK                'Shape'             OID '7388262b-c778-11b2-b657-001d48e455c6:3'
+	583 :   OK                'Shape'             OID '7389a98f-c778-11b2-b657-001d48e455c6:0'
+	584 :   OK                'Shape'             OID '7389a98f-c778-11b2-b657-001d48e455c6:1'
+	585 :   OK                'Shape'             OID '7389a98f-c778-11b2-b657-001d48e455c6:2'
+	586 :   OK                'Shape'             OID '7a05b0a5-c778-11b2-b657-001d48e455c6:0'
+	587 :   OK                'Shape'             OID '7a05b0a5-c778-11b2-b657-001d48e455c6:1'
+	588 :   OK                'Shape'             OID '7a05b0a5-c778-11b2-b657-001d48e455c6:2'
+	589 :   OK                'Shape'             OID '7a3454fd-c778-11b2-b657-001d48e455c6:0'
+	590 :   OK                'Shape'             OID '7a3454fd-c778-11b2-b657-001d48e455c6:1'
+	591 :   OK                'Shape'             OID '7a3454fd-c778-11b2-b657-001d48e455c6:2'
+	592 :   OK                'Shape'             OID '7a3454fd-c778-11b2-b657-001d48e455c6:3'
+	593 :   OK                'Shape'             OID '7a35198b-c778-11b2-b657-001d48e455c6:0'
+	594 :   OK                'Shape'             OID '7a35198b-c778-11b2-b657-001d48e455c6:1'
+	595 :   OK                'Shape'             OID '7a35198b-c778-11b2-b657-001d48e455c6:2'
+	596 :   OK                'Shape'             OID '7c5a0456-c778-11b2-b657-001d48e455c6:0'
+	597 :   OK                'Shape'             OID '7c5a0456-c778-11b2-b657-001d48e455c6:1'
+	598 :   OK                'Shape'             OID '7c5a0456-c778-11b2-b657-001d48e455c6:2'
+	599 :   OK                'Shape'             OID '7c61b1e7-c778-11b2-b657-001d48e455c6:0'
+	600 :   OK                'Shape'             OID '7c61b1e7-c778-11b2-b657-001d48e455c6:1'
+	601 :   OK                'Shape'             OID '7c61b1e7-c778-11b2-b657-001d48e455c6:2'
+	602 :   OK                'Shape'             OID '7c61b1e7-c778-11b2-b657-001d48e455c6:3'
+	603 :   OK                'Shape'             OID '7c61b1e7-c778-11b2-b657-001d48e455c6:4'
+	604 :   OK                'Shape'             OID '7c626ceb-c778-11b2-b657-001d48e455c6:0'
+	605 :   OK                'Shape'             OID '7c626ceb-c778-11b2-b657-001d48e455c6:1'
+	606 :   OK                'Shape'             OID '7c626ceb-c778-11b2-b657-001d48e455c6:2'
+	607 :   OK                'Shape'             OID '7c72b880-c778-11b2-b657-001d48e455c6:0'
+	608 :   OK                'Shape'             OID '7c72b880-c778-11b2-b657-001d48e455c6:1'
+	609 :   OK                'Shape'             OID '7c72b880-c778-11b2-b657-001d48e455c6:2'
+	610 :   OK                'Shape'             OID '7c7c657f-c778-11b2-b657-001d48e455c6:0'
+	611 :   OK                'Shape'             OID '7c7c657f-c778-11b2-b657-001d48e455c6:1'
+	612 :   OK                'Shape'             OID '7c7c657f-c778-11b2-b657-001d48e455c6:2'
+	613 :   OK                'Shape'             OID '7c7c657f-c778-11b2-b657-001d48e455c6:3'
+	614 :   OK                'Shape'             OID '7c7e14c7-c778-11b2-b657-001d48e455c6:0'
+	615 :   OK                'Shape'             OID '7c7e14c7-c778-11b2-b657-001d48e455c6:1'
+	616 :   OK                'Shape'             OID '7c7e14c7-c778-11b2-b657-001d48e455c6:2'
+	617 :   OK                'Shape'             OID '7c87da95-c778-11b2-b657-001d48e455c6:0'
+	618 :   OK                'Shape'             OID '7c87da95-c778-11b2-b657-001d48e455c6:1'
+	619 :   OK                'Shape'             OID '7c87da95-c778-11b2-b657-001d48e455c6:2'
+	620 :   OK                'Shape'             OID '7c8817a5-c778-11b2-b657-001d48e455c6:0'
+	621 :   OK                'Shape'             OID '7c8817a5-c778-11b2-b657-001d48e455c6:1'
+	622 :   OK                'Shape'             OID '7c8817a5-c778-11b2-b657-001d48e455c6:2'
+	623 :   OK                'Shape'             OID '7c99b8d1-c778-11b2-b657-001d48e455c6:0'
+	624 :   OK                'Shape'             OID '7c99b8d1-c778-11b2-b657-001d48e455c6:1'
+	625 :   OK                'Shape'             OID '7c99b8d1-c778-11b2-b657-001d48e455c6:2'
+	626 :   OK                'Shape'             OID '68da4d9d-c779-11b2-b657-001d48e455c6:0'
+	627 :   OK                'Shape'             OID '68da4d9d-c779-11b2-b657-001d48e455c6:1'
+	628 :   OK                'Shape'             OID '68da4d9d-c779-11b2-b657-001d48e455c6:2'
+	629 :   OK                'Shape'             OID '68da4d9d-c779-11b2-b657-001d48e455c6:3'
+	630 :   OK                'Shape'             OID '68eab5d2-c779-11b2-b657-001d48e455c6:0'
+	631 :   OK                'Shape'             OID '68eab5d2-c779-11b2-b657-001d48e455c6:1'
+	632 :   OK                'Shape'             OID '68eab5d2-c779-11b2-b657-001d48e455c6:2'
+	633 :   OK                'Shape'             OID '68eab5d2-c779-11b2-b657-001d48e455c6:3'
+	634 :   OK                'Shape'             OID '68eab5d2-c779-11b2-b657-001d48e455c6:4'
+	635 :   OK                'Shape'             OID '6a0518b6-c779-11b2-b657-001d48e455c6:0'
+	636 :   OK                'Shape'             OID '6a0518b6-c779-11b2-b657-001d48e455c6:1'
+	637 :   OK                'Shape'             OID '6a0518b6-c779-11b2-b657-001d48e455c6:2'
+	638 :   OK                'Shape'             OID '6a0518b6-c779-11b2-b657-001d48e455c6:3'
+	639 :   OK                'Shape'             OID '6a0518b6-c779-11b2-b657-001d48e455c6:4'
+	640 :   OK                'Shape'             OID '6a0518b6-c779-11b2-b657-001d48e455c6:5'
+	641 :   OK                'Shape'             OID '6a0518b6-c779-11b2-b657-001d48e455c6:6'
+	642 :   OK                'Shape'             OID '6a0518b6-c779-11b2-b657-001d48e455c6:7'
+	643 :   OK                'Shape'             OID '6a0518b6-c779-11b2-b657-001d48e455c6:8'
+	644 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:0'
+	645 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:1'
+	646 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:2'
+	647 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:3'
+	648 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:4'
+	649 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:5'
+	650 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:6'
+	651 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:7'
+	652 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:8'
+	653 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:9'
+	654 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:a'
+	655 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:b'
+	656 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:c'
+	657 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:d'
+	658 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:e'
+	659 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:f'
+	660 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:10'
+	661 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:11'
+	662 :   OK                'Shape'             OID '6a154994-c779-11b2-b657-001d48e455c6:12'
+	663 :   OK                'Shape'             OID '6aa6057a-c779-11b2-b657-001d48e455c6:0'
+	664 :   OK                'Shape'             OID '6aa6057a-c779-11b2-b657-001d48e455c6:1'
+	665 :   OK                'Shape'             OID '6aa6057a-c779-11b2-b657-001d48e455c6:2'
+	666 :   OK                'Shape'             OID '6aa6057a-c779-11b2-b657-001d48e455c6:3'
+	667 :   OK                'Shape'             OID '6aa6057a-c779-11b2-b657-001d48e455c6:4'
+	668 :   OK                'Shape'             OID '6aa6057a-c779-11b2-b657-001d48e455c6:5'
+	669 :   OK                'Shape'             OID '6f44eeb0-c779-11b2-b657-001d48e455c6:0'
+	670 :   OK                'Shape'             OID '6f44eeb0-c779-11b2-b657-001d48e455c6:1'
+	671 :   OK                'Shape'             OID '6f44eeb0-c779-11b2-b657-001d48e455c6:2'
+	672 :   OK                'Shape'             OID '6f44eeb0-c779-11b2-b657-001d48e455c6:3'
+	673 :   OK                'Shape'             OID '70841937-c779-11b2-b657-001d48e455c6:0'
+	674 :   OK                'Shape'             OID '70841937-c779-11b2-b657-001d48e455c6:1'
+	675 :   OK                'Shape'             OID '70841937-c779-11b2-b657-001d48e455c6:2'
+	676 :   OK                'Shape'             OID '70841937-c779-11b2-b657-001d48e455c6:3'
+	677 :   OK                'Shape'             OID '70915664-c779-11b2-b657-001d48e455c6:0'
+	678 :   OK                'Shape'             OID '70915664-c779-11b2-b657-001d48e455c6:1'
+	679 :   OK                'Shape'             OID '70915664-c779-11b2-b657-001d48e455c6:2'
+	680 :   OK                'Shape'             OID '70915664-c779-11b2-b657-001d48e455c6:3'
+	681 :   OK                'Shape'             OID '70a0ecae-c779-11b2-b657-001d48e455c6:0'
+	682 :   OK                'Shape'             OID '70a0ecae-c779-11b2-b657-001d48e455c6:1'
+	683 :   OK                'Shape'             OID '753f57f1-c779-11b2-b657-001d48e455c6:0'
+	684 :   OK                'Shape'             OID '753f57f1-c779-11b2-b657-001d48e455c6:1'
+	685 :   OK                'Shape'             OID '753f57f1-c779-11b2-b657-001d48e455c6:2'
+	686 :   OK                'Shape'             OID '753f57f1-c779-11b2-b657-001d48e455c6:3'
+	687 :   OK                'Shape'             OID '753f57f1-c779-11b2-b657-001d48e455c6:4'
+	688 :   OK                'Shape'             OID '753f57f1-c779-11b2-b657-001d48e455c6:5'
+	689 :   OK                'Shape'             OID '7553dd8b-c779-11b2-b657-001d48e455c6:0'
+	690 :   OK                'Shape'             OID '7553dd8b-c779-11b2-b657-001d48e455c6:1'
+	691 :   OK                'Shape'             OID '7553dd8b-c779-11b2-b657-001d48e455c6:2'
+	692 :   OK                'Shape'             OID '7553dd8b-c779-11b2-b657-001d48e455c6:3'
+	693 :   OK                'Shape'             OID '7553dd8b-c779-11b2-b657-001d48e455c6:4'
+	694 :   OK                'Shape'             OID '756513d9-c779-11b2-b657-001d48e455c6:0'
+	695 :   OK                'Shape'             OID '756513d9-c779-11b2-b657-001d48e455c6:1'
+	696 :   OK                'Shape'             OID '7575ce1d-c779-11b2-b657-001d48e455c6:0'
+	697 :   OK                'Shape'             OID '76343de8-c779-11b2-b657-001d48e455c6:0'
+	698 :   OK                'Shape'             OID '76343de8-c779-11b2-b657-001d48e455c6:1'
+	699 :   OK                'Shape'             OID '76343de8-c779-11b2-b657-001d48e455c6:2'
+	700 :   OK                'Shape'             OID '76343de8-c779-11b2-b657-001d48e455c6:3'
+	701 :   OK                'Shape'             OID '7644b932-c779-11b2-b657-001d48e455c6:0'
+	702 :   OK                'Shape'             OID '7644b932-c779-11b2-b657-001d48e455c6:1'
+	703 :   OK                'Shape'             OID '7644b932-c779-11b2-b657-001d48e455c6:2'
+	704 :   OK                'Shape'             OID '7644b932-c779-11b2-b657-001d48e455c6:3'
+	705 :   OK                'Shape'             OID '7644b932-c779-11b2-b657-001d48e455c6:4'
+	706 :   OK                'Shape'             OID '7644b932-c779-11b2-b657-001d48e455c6:5'
+	707 :   OK                'Shape'             OID '7644b932-c779-11b2-b657-001d48e455c6:6'
+	708 :   OK                'Shape'             OID '7644b932-c779-11b2-b657-001d48e455c6:7'
+	709 :   OK                'Shape'             OID '7644b932-c779-11b2-b657-001d48e455c6:8'
+	710 :   OK                'Shape'             OID '76c2a297-c779-11b2-b657-001d48e455c6:0'
+	711 :   OK                'Shape'             OID '76c2a297-c779-11b2-b657-001d48e455c6:1'
+	712 :   OK                'Shape'             OID '76c2a297-c779-11b2-b657-001d48e455c6:2'
+	713 :   OK                'Shape'             OID '76c2a297-c779-11b2-b657-001d48e455c6:3'
+	714 :   OK                'Shape'             OID '76cdd8b3-c779-11b2-b657-001d48e455c6:0'
+	715 :   OK                'Shape'             OID '76cdd8b3-c779-11b2-b657-001d48e455c6:1'
+	716 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:0'
+	717 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:1'
+	718 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:2'
+	719 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:3'
+	720 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:4'
+	721 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:5'
+	722 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:6'
+	723 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:7'
+	724 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:8'
+	725 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:9'
+	726 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:a'
+	727 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:b'
+	728 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:c'
+	729 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:d'
+	730 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:e'
+	731 :   OK                'Shape'             OID '77032714-c779-11b2-b657-001d48e455c6:f'
+	732 :   OK                'Shape'             OID '7793f426-c779-11b2-b657-001d48e455c6:0'
+	733 :   OK                'Shape'             OID '7793f426-c779-11b2-b657-001d48e455c6:1'
+	734 :   OK                'Shape'             OID '779cd8c6-c779-11b2-b657-001d48e455c6:0'
+	735 :   OK                'Shape'             OID '779cd8c6-c779-11b2-b657-001d48e455c6:1'
+	736 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:0'
+	737 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:1'
+	738 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:2'
+	739 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:3'
+	740 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:4'
+	741 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:5'
+	742 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:6'
+	743 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:7'
+	744 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:8'
+	745 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:9'
+	746 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:a'
+	747 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:b'
+	748 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:c'
+	749 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:d'
+	750 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:e'
+	751 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:f'
+	752 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:10'
+	753 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:11'
+	754 :   OK                'Shape'             OID '77a89a31-c779-11b2-b657-001d48e455c6:12'
+	755 :   OK                'Shape'             OID '77d694b2-c779-11b2-b657-001d48e455c6:0'
+	756 :   OK                'Shape'             OID '77d694b2-c779-11b2-b657-001d48e455c6:1'
+	757 :   OK                'Shape'             OID '77d694b2-c779-11b2-b657-001d48e455c6:2'
+	758 :   OK                'Shape'             OID '77d694b2-c779-11b2-b657-001d48e455c6:3'
+	759 :   OK                'Shape'             OID '77d694b2-c779-11b2-b657-001d48e455c6:4'
+	760 :   OK                'Shape'             OID '77d694b2-c779-11b2-b657-001d48e455c6:5'
+	761 :   OK                'Shape'             OID '77d694b2-c779-11b2-b657-001d48e455c6:6'
+	762 :   OK                'Shape'             OID '7ae45f54-c779-11b2-b657-001d48e455c6:0'
+	763 :   OK                'Shape'             OID '7ae45f54-c779-11b2-b657-001d48e455c6:1'
+	764 :   OK                'Shape'             OID '7ae45f54-c779-11b2-b657-001d48e455c6:2'
+	765 :   OK                'Shape'             OID '7ae45f54-c779-11b2-b657-001d48e455c6:3'
+	766 :   OK                'Shape'             OID '7ae45f54-c779-11b2-b657-001d48e455c6:4'
+	767 :   OK                'Shape'             OID '7ae45f54-c779-11b2-b657-001d48e455c6:5'
+	768 :   OK                'Shape'             OID '7ae45f54-c779-11b2-b657-001d48e455c6:6'
+	769 :   OK                'Shape'             OID '7aee6da6-c779-11b2-b657-001d48e455c6:0'
+	770 :   OK                'Shape'             OID '7aee6da6-c779-11b2-b657-001d48e455c6:1'
+	771 :   OK                'Shape'             OID '7aee6da6-c779-11b2-b657-001d48e455c6:2'
+	772 :   OK                'Shape'             OID '7aee6da6-c779-11b2-b657-001d48e455c6:3'
+	773 :   OK                'Shape'             OID '7aee6da6-c779-11b2-b657-001d48e455c6:4'
+	774 :   OK                'Shape'             OID '7ba3325b-c779-11b2-b657-001d48e455c6:0'
+	775 :   OK                'Shape'             OID '7ba3325b-c779-11b2-b657-001d48e455c6:1'
+	776 :   OK                'Shape'             OID '7bd3b798-c779-11b2-b657-001d48e455c6:0'
+	777 :   OK                'Shape'             OID '7bd3b798-c779-11b2-b657-001d48e455c6:1'
+	778 :   OK                'Shape'             OID '7c98e66a-c779-11b2-b657-001d48e455c6:0'
+	779 :   OK                'Shape'             OID '7cd27671-c779-11b2-b657-001d48e455c6:0'
+	780 :   OK                'Shape'             OID '7cd27671-c779-11b2-b657-001d48e455c6:1'
+	781 :   OK                'Shape'             OID '7cd27671-c779-11b2-b657-001d48e455c6:2'
+	782 :   OK                'Shape'             OID '7cd27671-c779-11b2-b657-001d48e455c6:3'
+	783 :   OK                'Shape'             OID '7d73ee83-c779-11b2-b657-001d48e455c6:0'
+	784 :   OK                'Shape'             OID '7ddbb9ee-c779-11b2-b657-001d48e455c6:0'
+	785 :   OK                'Shape'             OID '7ddbb9ee-c779-11b2-b657-001d48e455c6:1'
+	786 :   OK                'Shape'             OID '7ddbb9ee-c779-11b2-b657-001d48e455c6:2'
+	787 :   OK                'Shape'             OID '7e056384-c779-11b2-b657-001d48e455c6:0'
+	788 :   OK                'Shape'             OID '7e056384-c779-11b2-b657-001d48e455c6:1'
+	789 :   OK                'Shape'             OID '7e056384-c779-11b2-b657-001d48e455c6:2'
+	790 :   OK                'Shape'             OID '7e056384-c779-11b2-b657-001d48e455c6:3'
+	791 :   OK                'Shape'             OID '80688520-c779-11b2-b657-001d48e455c6:0'
+	792 :   OK                'Shape'             OID '80688520-c779-11b2-b657-001d48e455c6:1'
+	793 :   OK                'Shape'             OID '80688520-c779-11b2-b657-001d48e455c6:2'
+	794 :   OK                'Shape'             OID '80688520-c779-11b2-b657-001d48e455c6:3'
+	795 :   OK                'Shape'             OID '80688520-c779-11b2-b657-001d48e455c6:4'
+	796 :   OK                'Shape'             OID '80796777-c779-11b2-b657-001d48e455c6:0'
+	797 :   OK                'Shape'             OID '80796777-c779-11b2-b657-001d48e455c6:1'
+	798 :   OK                'Shape'             OID '80796777-c779-11b2-b657-001d48e455c6:2'
+	799 :   OK                'Shape'             OID '80796777-c779-11b2-b657-001d48e455c6:3'
+
+Assets with errors/warnings/infos:
+	<initial shape geometry>:
+		Warning: Geometry ' (mesh: Shape)' contained: 1 0-angles (removed); ; Geometry '' contained (0/0/3) unreferenced vertices/vertex normals/texture coordinates, they were removed.
+		Warning: Geometry ' (mesh: Shape)' contained: 1 0-angles (removed); ; Geometry '' contained (0/0/6) unreferenced vertices/vertex normals/texture coordinates, they were removed.
+		Warning: Geometry ' (mesh: Shape)' contained:  some inconsistent faces (split or removed); ; Geometry '' contained (1/0/3) unreferenced vertices/vertex normals/texture coordinates, they were removed.
+		Warning: Geometry ' (mesh: Shape)' contained: 1 0-angles (removed); 
+
+
+Files created:
+	'city3_0.obj':
+		Initial shapes:
+			0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 16, 19, 18, 21, 20, 23, 22, 25, 24, 27, 26, 29, 28, 31, 30, 34, 35, 32, 33, 38, 39, 36, 37, 42, 43, 40, 41, 46, 47, 44, 45, 51, 50, 49, 48, 55, 54, 53, 52, 59, 58, 57, 56, 63, 62, 61, 60, 68, 69, 70, 71, 64, 65, 66, 67, 76, 77, 78, 79, 72, 73, 74, 75, 85, 84, 87, 86, 81, 80, 83, 82, 93, 92, 95, 94, 89, 88, 91, 90, 102, 103, 100, 101, 98, 99, 96, 97, 110, 111, 108, 109, 106, 107, 104, 105, 119, 118, 117, 116, 115, 114, 113, 112, 127, 126, 125, 124, 123, 122, 121, 120, 137, 136, 139, 138, 141, 140, 143, 142, 129, 128, 131, 130, 133, 132, 135, 134, 152, 153, 154, 155, 156, 157, 158, 159, 144, 145, 146, 147, 148, 149, 150, 151, 171, 170, 169, 168, 175, 174, 173, 172, 163, 162, 161, 160, 167, 166, 165, 164, 186, 187, 184, 185, 190, 191, 188, 189, 178, 179, 176, 177, 182, 183, 180, 181, 205, 204, 207, 206, 201, 200, 203, 202, 197, 196, 199, 198, 193, 192, 195, 194, 220, 221, 222, 223, 216, 217, 218, 219, 212, 213, 214, 215, 208, 209, 210, 211, 239, 238, 237, 236, 235, 234, 233, 232, 231, 230, 229, 228, 227, 226, 225, 224, 254, 255, 252, 253, 250, 251, 248, 249, 246, 247, 244, 245, 242, 243, 240, 241, 275, 274, 273, 272, 279, 278, 277, 276, 283, 282, 281, 280, 287, 286, 285, 284, 258, 259, 256, 257, 262, 263, 260, 261, 266, 267, 264, 265, 270, 271, 268, 269, 305, 304, 307, 306, 309, 308, 311, 310, 313, 312, 315, 314, 317, 316, 319, 318, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 343, 342, 341, 340, 339, 338, 337, 336, 351, 350, 349, 348, 347, 346, 345, 344, 326, 327, 324, 325, 322, 323, 320, 321, 334, 335, 332, 333, 330, 331, 328, 329, 373, 372, 375, 374, 369, 368, 371, 370, 381, 380, 383, 382, 377, 376, 379, 378, 356, 357, 358, 359, 352, 353, 354, 355, 364, 365, 366, 367, 360, 361, 362, 363, 410, 411, 408, 409, 414, 415, 412, 413, 402, 403, 400, 401, 406, 407, 404, 405, 395, 394, 393, 392, 399, 398, 397, 396, 387, 386, 385, 384, 391, 390, 389, 388, 440, 441, 442, 443, 444, 445, 446, 447, 432, 433, 434, 435, 436, 437, 438, 439, 425, 424, 427, 426, 429, 428, 431, 430, 417, 416, 419, 418, 421, 420, 423, 422, 478, 479, 476, 477, 474, 475, 472, 473, 470, 471, 468, 469, 466, 467, 464, 465, 463, 462, 461, 460, 459, 458, 457, 456, 455, 454, 453, 452, 451, 450, 449, 448, 508, 509, 510, 511, 504, 505, 506, 507, 500, 501, 502, 503, 496, 497, 498, 499, 493, 492, 495, 494, 489, 488, 491, 490, 485, 484, 487, 486, 481, 480, 483, 482, 550, 551, 548, 549, 546, 547, 544, 545, 558, 559, 556, 557, 554, 555, 552, 553, 567, 566, 565, 564, 563, 562, 561, 560, 575, 574, 573, 572, 571, 570, 569, 568, 516, 517, 518, 519, 512, 513, 514, 515, 524, 525, 526, 527, 520, 521, 522, 523, 533, 532, 535, 534, 529, 528, 531, 530, 541, 540, 543, 542, 537, 536, 539, 538, 610, 611, 608, 609, 614, 615, 612, 613, 618, 619, 616, 617, 622, 623, 620, 621, 627, 626, 625, 624, 631, 630, 629, 628, 635, 634, 633, 632, 639, 638, 637, 636, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 593, 592, 595, 594, 597, 596, 599, 598, 601, 600, 603, 602, 605, 604, 607, 606, 687, 686, 685, 684, 683, 682, 681, 680, 679, 678, 677, 676, 675, 674, 673, 672, 702, 703, 700, 701, 698, 699, 696, 697, 694, 695, 692, 693, 690, 691, 688, 689, 653, 652, 655, 654, 649, 648, 651, 650, 645, 644, 647, 646, 641, 640, 643, 642, 668, 669, 670, 671, 664, 665, 666, 667, 660, 661, 662, 663, 656, 657, 658, 659, 747, 746, 745, 744, 751, 750, 749, 748, 739, 738, 737, 736, 743, 742, 741, 740, 762, 763, 760, 761, 766, 767, 764, 765, 754, 755, 752, 753, 758, 759, 756, 757, 713, 712, 715, 714, 717, 716, 719, 718, 705, 704, 707, 706, 709, 708, 711, 710, 728, 729, 730, 731, 732, 733, 734, 735, 720, 721, 722, 723, 724, 725, 726, 727, 791, 790, 789, 788, 787, 786, 785, 784, 799, 798, 797, 796, 795, 794, 793, 792, 774, 775, 772, 773, 770, 771, 768, 769, 782, 783, 780, 781, 778, 779, 776, 777, 
+		GEOMETRY:
+			Total Meshes: 493
+			Total Polygons: 26509
+			    | Name                        | Material               | Polygons 
+			====+=============================+========================+==========
+			  1  'mesh_CityEngineMaterial'     'CityEngineMaterial_362'         4 
+			  2  'mesh_CityEngineMaterial_1'   'CityEngineMaterial_205'         3 
+			  3  'mesh_CityEngineMaterial_2'   'CityEngineMaterial_479'         4 
+			  4  'mesh_CityEngineMaterial_3'   'CityEngineMaterial_399'        15 
+			  5  'mesh_CityEngineMaterial_4'   'CityEngineMaterial_195'         2 
+			  6  'mesh_CityEngineMaterial_5'   'CityEngineMaterial_394'         2 
+			  7  'mesh_CityEngineMaterial_6'   'CityEngineMaterial_100'         2 
+			  8  'mesh_CityEngineMaterial_7'   'CityEngineMaterial_116'        16 
+			  9  'mesh_CreateFan'              'CreateFan_11'                 216 
+			 10  'mesh_CityEngineMaterial_8'   'CityEngineMaterial_177'         8 
+			 11  'mesh_CityEngineMaterial_9'   'CityEngineMaterial_102'         4 
+			 12  'mesh_CityEngineMaterial_10'  'CityEngineMaterial_330'         8 
+			 13  'mesh_CityEngineMaterial_11'  'CityEngineMaterial_356'         1 
+			 14  'mesh_CityEngineMaterial_12'  'CityEngineMaterial_412'         6 
+			 15  'mesh_CityEngineMaterial_13'  'CityEngineMaterial_235'         6 
+			 16  'mesh_CityEngineMaterial_14'  'CityEngineMaterial_433'         6 
+			 17  'mesh_CityEngineMaterial_15'  'CityEngineMaterial_383'         8 
+			 18  'mesh_CityEngineMaterial_16'  'CityEngineMaterial_367'        14 
+			 19  'mesh_CityEngineMaterial_17'  'CityEngineMaterial_348'         1 
+			 20  'mesh_CityEngineMaterial_18'  'CityEngineMaterial_295'        21 
+			 21  'mesh_CityEngineMaterial_19'  'CityEngineMaterial_395'        12 
+			 22  'mesh_CityEngineMaterial_20'  'CityEngineMaterial_86'         28 
+			 23  'mesh_CityEngineMaterial_21'  'CityEngineMaterial_92'         83 
+			 24  'mesh_CityEngineMaterial_22'  'CityEngineMaterial_341'        56 
+			 25  'mesh_CityEngineMaterial_23'  'CityEngineMaterial_172'        15 
+			 26  'mesh_CityEngineMaterial_24'  'CityEngineMaterial_319'        58 
+			 27  'mesh_CityEngineMaterial_25'  'CityEngineMaterial_56'         13 
+			 28  'mesh_CityEngineMaterial_26'  'CityEngineMaterial_194'         3 
+			 29  'mesh_CityEngineMaterial_27'  'CityEngineMaterial_17'          6 
+			 30  'mesh_CityEngineMaterial_28'  'CityEngineMaterial_215'         9 
+			 31  'mesh_CityEngineMaterial_29'  'CityEngineMaterial_178'        62 
+			 32  'mesh_CityEngineMaterial_30'  'CityEngineMaterial_16'         26 
+			 33  'mesh_CityEngineMaterial_31'  'CityEngineMaterial_28'          8 
+			 34  'mesh_CityEngineMaterial_32'  'CityEngineMaterial_185'         6 
+			 35  'mesh_CityEngineMaterial_33'  'CityEngineMaterial_11'          6 
+			 36  'mesh_CityEngineMaterial_34'  'CityEngineMaterial_451'         6 
+			 37  'mesh_CityEngineMaterial_35'  'CityEngineMaterial_4'         511 
+			 38  'mesh_CityEngineMaterial_36'  'CityEngineMaterial_249'         3 
+			 39  'mesh_CityEngineMaterial_37'  'CityEngineMaterial_99'         19 
+			 40  'mesh_CityEngineMaterial_38'  'CityEngineMaterial_55'         15 
+			 41  'mesh_CityEngineMaterial_39'  'CityEngineMaterial_150'        19 
+			 42  'mesh_CityEngineMaterial_40'  'CityEngineMaterial_105'        21 
+			 43  'mesh_CityEngineMaterial_41'  'CityEngineMaterial_70'         19 
+			 44  'mesh_CityEngineMaterial_42'  'CityEngineMaterial_387'         1 
+			 45  'mesh_CityEngineMaterial_43'  'CityEngineMaterial_455'         1 
+			 46  'mesh_CityEngineMaterial_44'  'CityEngineMaterial_417'         1 
+			 47  'mesh_CityEngineMaterial_45'  'CityEngineMaterial_58'          1 
+			 48  'mesh_CityEngineMaterial_46'  'CityEngineMaterial_65'         22 
+			 49  'mesh_CityEngineMaterial_47'  'CityEngineMaterial_74'          8 
+			 50  'mesh_CityEngineMaterial_48'  'CityEngineMaterial_364'        10 
+			 51  'mesh_CityEngineMaterial_49'  'CityEngineMaterial_179'         5 
+			 52  'mesh_CityEngineMaterial_50'  'CityEngineMaterial_29'          6 
+			 53  'mesh_CityEngineMaterial_51'  'CityEngineMaterial_79'          8 
+			 54  'mesh_CityEngineMaterial_52'  'CityEngineMaterial_243'         9 
+			 55  'mesh_CityEngineMaterial_53'  'CityEngineMaterial_342'         3 
+			 56  'mesh_CityEngineMaterial_54'  'CityEngineMaterial_35'          7 
+			 57  'mesh_CityEngineMaterial_55'  'CityEngineMaterial_13'         13 
+			 58  'mesh_CityEngineMaterial_56'  'CityEngineMaterial_104'        10 
+			 59  'mesh_CityEngineMaterial_57'  'CityEngineMaterial_57'         12 
+			 60  'mesh_CityEngineMaterial_58'  'CityEngineMaterial_83'         10 
+			 61  'mesh_CityEngineMaterial_59'  'CityEngineMaterial_108'        40 
+			 62  'mesh_CityEngineMaterial_60'  'CityEngineMaterial_440'         1 
+			 63  'mesh_CityEngineMaterial_61'  'CityEngineMaterial_24'         19 
+			 64  'mesh_CityEngineMaterial_62'  'CityEngineMaterial_18'         17 
+			 65  'mesh_CityEngineMaterial_63'  'CityEngineMaterial_34'         24 
+			 66  'mesh_CityEngineMaterial_64'  'CityEngineMaterial_261'        11 
+			 67  'mesh_CityEngineMaterial_65'  'CityEngineMaterial_264'         3 
+			 68  'mesh_CityEngineMaterial_66'  'CityEngineMaterial_244'         4 
+			 69  'mesh_CityEngineMaterial_67'  'CityEngineMaterial_463'        15 
+			 70  'mesh_CityEngineMaterial_68'  'CityEngineMaterial_143'         3 
+			 71  'mesh_CityEngineMaterial_69'  'CityEngineMaterial_176'        89 
+			 72  'mesh_CityEngineMaterial_70'  'CityEngineMaterial_71'         18 
+			 73  'mesh_CityEngineMaterial_71'  'CityEngineMaterial_271'        60 
+			 74  'mesh_CityEngineMaterial_72'  'CityEngineMaterial_447'         6 
+			 75  'mesh_CityEngineMaterial_73'  'CityEngineMaterial_265'         2 
+			 76  'mesh_CityEngineMaterial_74'  'CityEngineMaterial_14'        138 
+			 77  'mesh_CityEngineMaterial_75'  'CityEngineMaterial_317'         2 
+			 78  'mesh_CityEngineMaterial_76'  'CityEngineMaterial_316'        33 
+			 79  'mesh_CreateFan_1'            'CreateFan_5'                  296 
+			 80  'mesh_CityEngineMaterial_77'  'CityEngineMaterial_299'         5 
+			 81  'mesh_CreateFan_2'            'CreateFan_6'                  248 
+			 82  'mesh_CityEngineMaterial_78'  'CityEngineMaterial_262'         1 
+			 83  'mesh_CityEngineMaterial_79'  'CityEngineMaterial_285'        42 
+			 84  'mesh_CityEngineMaterial_80'  'CityEngineMaterial_446'         2 
+			 85  'mesh_CityEngineMaterial_81'  'CityEngineMaterial'           197 
+			 86  'mesh_CityEngineMaterial_82'  'CityEngineMaterial_410'         3 
+			 87  'mesh_CreateFan_3'            'CreateFan_7'                  256 
+			 88  'mesh_CityEngineMaterial_83'  'CityEngineMaterial_157'        10 
+			 89  'mesh_CityEngineMaterial_84'  'CityEngineMaterial_106'         6 
+			 90  'mesh_CityEngineMaterial_85'  'CityEngineMaterial_8'         160 
+			 91  'mesh_CityEngineMaterial_86'  'CityEngineMaterial_239'         1 
+			 92  'mesh_CityEngineMaterial_87'  'CityEngineMaterial_368'         2 
+			 93  'mesh_CityEngineMaterial_88'  'CityEngineMaterial_41'         92 
+			 94  'mesh_CityEngineMaterial_89'  'CityEngineMaterial_48'         50 
+			 95  'mesh_CityEngineMaterial_90'  'CityEngineMaterial_253'        22 
+			 96  'mesh_CityEngineMaterial_91'  'CityEngineMaterial_468'        12 
+			 97  'mesh_CityEngineMaterial_92'  'CityEngineMaterial_287'        14 
+			 98  'mesh_CityEngineMaterial_93'  'CityEngineMaterial_335'        18 
+			 99  'mesh_CityEngineMaterial_94'  'CityEngineMaterial_289'        51 
+			100  'mesh_CityEngineMaterial_95'  'CityEngineMaterial_191'        26 
+			101  'mesh_CityEngineMaterial_96'  'CityEngineMaterial_260'        10 
+			102  'mesh_CityEngineMaterial_97'  'CityEngineMaterial_151'         3 
+			103  'mesh_CityEngineMaterial_98'  'CityEngineMaterial_371'         8 
+			104  'mesh_CityEngineMaterial_99'  'CityEngineMaterial_408'        35 
+			105  'mesh_CityEngineMaterial_100' 'CityEngineMaterial_385'         7 
+			106  'mesh_CityEngineMaterial_101' 'CityEngineMaterial_10'         42 
+			107  'mesh_CityEngineMaterial_102' 'CityEngineMaterial_388'        25 
+			108  'mesh_CityEngineMaterial_103' 'CityEngineMaterial_230'         2 
+			109  'mesh_CityEngineMaterial_104' 'CityEngineMaterial_405'         4 
+			110  'mesh_CityEngineMaterial_105' 'CityEngineMaterial_236'        32 
+			111  'mesh_CityEngineMaterial_106' 'CityEngineMaterial_175'        79 
+			112  'mesh_CityEngineMaterial_107' 'CityEngineMaterial_421'         8 
+			113  'mesh_CityEngineMaterial_108' 'CityEngineMaterial_12'         19 
+			114  'mesh_CityEngineMaterial_109' 'CityEngineMaterial_320'         3 
+			115  'mesh_CityEngineMaterial_110' 'CityEngineMaterial_115'        82 
+			116  'mesh_CityEngineMaterial_111' 'CityEngineMaterial_250'        64 
+			117  'mesh_CityEngineMaterial_112' 'CityEngineMaterial_413'        46 
+			118  'mesh_CityEngineMaterial_113' 'CityEngineMaterial_432'        20 
+			119  'mesh_CityEngineMaterial_114' 'CityEngineMaterial_238'        10 
+			120  'mesh_CityEngineMaterial_115' 'CityEngineMaterial_226'         1 
+			121  'mesh_CityEngineMaterial_116' 'CityEngineMaterial_293'         4 
+			122  'mesh_CityEngineMaterial_117' 'CityEngineMaterial_435'         8 
+			123  'mesh_CreateFan_4'            'CreateFan_9'                  312 
+			124  'mesh_CityEngineMaterial_118' 'CityEngineMaterial_125'        26 
+			125  'mesh_CityEngineMaterial_119' 'CityEngineMaterial_456'         2 
+			126  'mesh_CityEngineMaterial_120' 'CityEngineMaterial_462'         5 
+			127  'mesh_CityEngineMaterial_121' 'CityEngineMaterial_9'          12 
+			128  'mesh_CityEngineMaterial_122' 'CityEngineMaterial_406'         3 
+			129  'mesh_CityEngineMaterial_123' 'CityEngineMaterial_314'         3 
+			130  'mesh_CityEngineMaterial_124' 'CityEngineMaterial_274'         8 
+			131  'mesh_CityEngineMaterial_125' 'CityEngineMaterial_3'        2154 
+			132  'mesh_CityEngineMaterial_126' 'CityEngineMaterial_478'         8 
+			133  'mesh_CityEngineMaterial_127' 'CityEngineMaterial_441'         8 
+			134  'mesh_CreateFan_5'            'CreateFan_10'                 200 
+			135  'mesh_CityEngineMaterial_128' 'CityEngineMaterial_353'         9 
+			136  'mesh_CityEngineMaterial_129' 'CityEngineMaterial_425'         4 
+			137  'mesh_CityEngineMaterial_130' 'CityEngineMaterial_469'         4 
+			138  'mesh_CityEngineMaterial_131' 'CityEngineMaterial_198'        42 
+			139  'mesh_CityEngineMaterial_132' 'CityEngineMaterial_311'        12 
+			140  'mesh_CityEngineMaterial_133' 'CityEngineMaterial_415'        13 
+			141  'mesh_CityEngineMaterial_134' 'CityEngineMaterial_170'         5 
+			142  'mesh_CityEngineMaterial_135' 'CityEngineMaterial_128'         5 
+			143  'mesh_CityEngineMaterial_136' 'CityEngineMaterial_404'        14 
+			144  'mesh_CityEngineMaterial_137' 'CityEngineMaterial_174'        21 
+			145  'mesh_CityEngineMaterial_138' 'CityEngineMaterial_173'         5 
+			146  'mesh_CityEngineMaterial_139' 'CityEngineMaterial_393'        26 
+			147  'mesh_CityEngineMaterial_140' 'CityEngineMaterial_36'         97 
+			148  'mesh_CityEngineMaterial_141' 'CityEngineMaterial_281'         2 
+			149  'mesh_CityEngineMaterial_142' 'CityEngineMaterial_218'         1 
+			150  'mesh_CityEngineMaterial_143' 'CityEngineMaterial_312'        31 
+			151  'mesh_CityEngineMaterial_144' 'CityEngineMaterial_127'         8 
+			152  'mesh_CityEngineMaterial_145' 'CityEngineMaterial_27'         71 
+			153  'mesh_CityEngineMaterial_146' 'CityEngineMaterial_398'         7 
+			154  'mesh_CityEngineMaterial_147' 'CityEngineMaterial_280'         6 
+			155  'mesh_CityEngineMaterial_148' 'CityEngineMaterial_26'          8 
+			156  'mesh_CityEngineMaterial_149' 'CityEngineMaterial_212'         2 
+			157  'mesh_CityEngineMaterial_150' 'CityEngineMaterial_49'          1 
+			158  'mesh_CityEngineMaterial_151' 'CityEngineMaterial_193'         8 
+			159  'mesh_CityEngineMaterial_152' 'CityEngineMaterial_234'         8 
+			160  'mesh_CityEngineMaterial_153' 'CityEngineMaterial_37'          4 
+			161  'mesh_CityEngineMaterial_154' 'CityEngineMaterial_5'         112 
+			162  'mesh_CityEngineMaterial_155' 'CityEngineMaterial_232'         8 
+			163  'mesh_CityEngineMaterial_156' 'CityEngineMaterial_162'         5 
+			164  'mesh_CityEngineMaterial_157' 'CityEngineMaterial_376'         4 
+			165  'mesh_CityEngineMaterial_158' 'CityEngineMaterial_139'        12 
+			166  'mesh_CityEngineMaterial_159' 'CityEngineMaterial_321'         6 
+			167  'mesh_CityEngineMaterial_160' 'CityEngineMaterial_286'         3 
+			168  'mesh_CityEngineMaterial_161' 'CityEngineMaterial_31'          8 
+			169  'mesh_CityEngineMaterial_162' 'CityEngineMaterial_304'        16 
+			170  'mesh_CityEngineMaterial_163' 'CityEngineMaterial_380'         1 
+			171  'mesh_CityEngineMaterial_164' 'CityEngineMaterial_223'        66 
+			172  'mesh_CityEngineMaterial_165' 'CityEngineMaterial_52'         87 
+			173  'mesh_CityEngineMaterial_166' 'CityEngineMaterial_242'        38 
+			174  'mesh_CityEngineMaterial_167' 'CityEngineMaterial_296'         4 
+			175  'mesh_CityEngineMaterial_168' 'CityEngineMaterial_313'         7 
+			176  'mesh_CreateFan_6'            'CreateFan_4'                  272 
+			177  'mesh_CityEngineMaterial_169' 'CityEngineMaterial_59'          3 
+			178  'mesh_CityEngineMaterial_170' 'CityEngineMaterial_123'         6 
+			179  'mesh_CityEngineMaterial_171' 'CityEngineMaterial_225'        18 
+			180  'mesh_CityEngineMaterial_172' 'CityEngineMaterial_333'        12 
+			181  'mesh_CityEngineMaterial_173' 'CityEngineMaterial_130'        26 
+			182  'mesh_CityEngineMaterial_174' 'CityEngineMaterial_208'         7 
+			183  'mesh_CityEngineMaterial_175' 'CityEngineMaterial_67'         65 
+			184  'mesh_CityEngineMaterial_176' 'CityEngineMaterial_272'         3 
+			185  'mesh_CityEngineMaterial_177' 'CityEngineMaterial_51'         26 
+			186  'mesh_CityEngineMaterial_178' 'CityEngineMaterial_95'         14 
+			187  'mesh_CityEngineMaterial_179' 'CityEngineMaterial_337'        50 
+			188  'mesh_CityEngineMaterial_180' 'CityEngineMaterial_132'         9 
+			189  'mesh_CityEngineMaterial_181' 'CityEngineMaterial_167'         6 
+			190  'mesh_CityEngineMaterial_182' 'CityEngineMaterial_152'        12 
+			191  'mesh_CityEngineMaterial_183' 'CityEngineMaterial_338'         2 
+			192  'mesh_CityEngineMaterial_184' 'CityEngineMaterial_171'         7 
+			193  'mesh_CityEngineMaterial_185' 'CityEngineMaterial_297'         5 
+			194  'mesh_CityEngineMaterial_186' 'CityEngineMaterial_466'         2 
+			195  'mesh_CityEngineMaterial_187' 'CityEngineMaterial_38'         66 
+			196  'mesh_CityEngineMaterial_188' 'CityEngineMaterial_325'        31 
+			197  'mesh_CityEngineMaterial_189' 'CityEngineMaterial_354'         2 
+			198  'mesh_CityEngineMaterial_190' 'CityEngineMaterial_471'         8 
+			199  'mesh_CityEngineMaterial_191' 'CityEngineMaterial_259'         6 
+			200  'mesh_CityEngineMaterial_192' 'CityEngineMaterial_458'         8 
+			201  'mesh_CityEngineMaterial_193' 'CityEngineMaterial_231'         6 
+			202  'mesh_CityEngineMaterial_194' 'CityEngineMaterial_400'         8 
+			203  'mesh_CityEngineMaterial_195' 'CityEngineMaterial_382'        12 
+			204  'mesh_CityEngineMaterial_196' 'CityEngineMaterial_270'        40 
+			205  'mesh_CityEngineMaterial_197' 'CityEngineMaterial_182'        25 
+			206  'mesh_CityEngineMaterial_198' 'CityEngineMaterial_453'        14 
+			207  'mesh_CityEngineMaterial_199' 'CityEngineMaterial_363'         1 
+			208  'mesh_CityEngineMaterial_200' 'CityEngineMaterial_355'         4 
+			209  'mesh_CityEngineMaterial_201' 'CityEngineMaterial_350'        40 
+			210  'mesh_CityEngineMaterial_202' 'CityEngineMaterial_43'          3 
+			211  'mesh_CityEngineMaterial_203' 'CityEngineMaterial_85'          6 
+			212  'mesh_CityEngineMaterial_204' 'CityEngineMaterial_266'        12 
+			213  'mesh_CityEngineMaterial_205' 'CityEngineMaterial_308'         6 
+			214  'mesh_CityEngineMaterial_206' 'CityEngineMaterial_233'         6 
+			215  'mesh_CityEngineMaterial_207' 'CityEngineMaterial_332'         2 
+			216  'mesh_CityEngineMaterial_208' 'CityEngineMaterial_402'        14 
+			217  'mesh_CityEngineMaterial_209' 'CityEngineMaterial_302'         1 
+			218  'mesh_CityEngineMaterial_210' 'CityEngineMaterial_445'         8 
+			219  'mesh_CityEngineMaterial_211' 'CityEngineMaterial_324'         5 
+			220  'mesh_CityEngineMaterial_212' 'CityEngineMaterial_303'         6 
+			221  'mesh_CityEngineMaterial_213' 'CityEngineMaterial_240'         6 
+			222  'mesh_CityEngineMaterial_214' 'CityEngineMaterial_389'         8 
+			223  'mesh_CityEngineMaterial_215' 'CityEngineMaterial_42'        118 
+			224  'mesh_CityEngineMaterial_216' 'CityEngineMaterial_72'          8 
+			225  'mesh_CityEngineMaterial_217' 'CityEngineMaterial_328'         2 
+			226  'mesh_CityEngineMaterial_218' 'CityEngineMaterial_391'        18 
+			227  'mesh_CityEngineMaterial_219' 'CityEngineMaterial_54'         16 
+			228  'mesh_CityEngineMaterial_220' 'CityEngineMaterial_6'          48 
+			229  'mesh_CityEngineMaterial_221' 'CityEngineMaterial_189'        38 
+			230  'mesh_CityEngineMaterial_222' 'CityEngineMaterial_76'          8 
+			231  'mesh_CityEngineMaterial_223' 'CityEngineMaterial_340'         4 
+			232  'mesh_CityEngineMaterial_224' 'CityEngineMaterial_403'        14 
+			233  'mesh_CityEngineMaterial_225' 'CityEngineMaterial_73'         66 
+			234  'mesh_CityEngineMaterial_226' 'CityEngineMaterial_228'         8 
+			235  'mesh_CityEngineMaterial_227' 'CityEngineMaterial_444'         1 
+			236  'mesh_CityEngineMaterial_228' 'CityEngineMaterial_438'         8 
+			237  'mesh_CityEngineMaterial_229' 'CityEngineMaterial_129'        20 
+			238  'mesh_CityEngineMaterial_230' 'CityEngineMaterial_326'         2 
+			239  'mesh_CityEngineMaterial_231' 'CityEngineMaterial_181'        30 
+			240  'mesh_CityEngineMaterial_232' 'CityEngineMaterial_68'         20 
+			241  'mesh_CityEngineMaterial_233' 'CityEngineMaterial_156'        34 
+			242  'mesh_CityEngineMaterial_234' 'CityEngineMaterial_301'        21 
+			243  'mesh_CityEngineMaterial_235' 'CityEngineMaterial_467'         8 
+			244  'mesh_CityEngineMaterial_236' 'CityEngineMaterial_154'         8 
+			245  'mesh_CityEngineMaterial_237' 'CityEngineMaterial_277'         2 
+			246  'mesh_CityEngineMaterial_238' 'CityEngineMaterial_201'        74 
+			247  'mesh_CityEngineMaterial_239' 'CityEngineMaterial_118'        20 
+			248  'mesh_CityEngineMaterial_240' 'CityEngineMaterial_351'         1 
+			249  'mesh_CityEngineMaterial_241' 'CityEngineMaterial_370'         9 
+			250  'mesh_CityEngineMaterial_242' 'CityEngineMaterial_374'        17 
+			251  'mesh_CityEngineMaterial_243' 'CityEngineMaterial_113'         9 
+			252  'mesh_CityEngineMaterial_244' 'CityEngineMaterial_169'        54 
+			253  'mesh_CityEngineMaterial_245' 'CityEngineMaterial_81'         11 
+			254  'mesh_CityEngineMaterial_246' 'CityEngineMaterial_423'         1 
+			255  'mesh_CityEngineMaterial_247' 'CityEngineMaterial_204'        56 
+			256  'mesh_CityEngineMaterial_248' 'CityEngineMaterial_164'        35 
+			257  'mesh_CityEngineMaterial_249' 'CityEngineMaterial_183'         8 
+			258  'mesh_CityEngineMaterial_250' 'CityEngineMaterial_163'        29 
+			259  'mesh_CityEngineMaterial_251' 'CityEngineMaterial_75'          4 
+			260  'mesh_CityEngineMaterial_252' 'CityEngineMaterial_7'          52 
+			261  'mesh_CityEngineMaterial_253' 'CityEngineMaterial_39'          1 
+			262  'mesh_CityEngineMaterial_254' 'CityEngineMaterial_91'          9 
+			263  'mesh_CityEngineMaterial_255' 'CityEngineMaterial_187'         7 
+			264  'mesh_CityEngineMaterial_256' 'CityEngineMaterial_77'         46 
+			265  'mesh_CityEngineMaterial_257' 'CityEngineMaterial_21'         22 
+			266  'mesh_CityEngineMaterial_258' 'CityEngineMaterial_263'        20 
+			267  'mesh_CityEngineMaterial_259' 'CityEngineMaterial_291'         3 
+			268  'mesh_CityEngineMaterial_260' 'CityEngineMaterial_300'         9 
+			269  'mesh_CityEngineMaterial_261' 'CityEngineMaterial_443'        19 
+			270  'mesh_CityEngineMaterial_262' 'CityEngineMaterial_155'         4 
+			271  'mesh_CityEngineMaterial_263' 'CityEngineMaterial_416'         7 
+			272  'mesh_CityEngineMaterial_264' 'CityEngineMaterial_480'        12 
+			273  'mesh_CityEngineMaterial_265' 'CityEngineMaterial_448'         3 
+			274  'mesh_CityEngineMaterial_266' 'CityEngineMaterial_331'        12 
+			275  'mesh_CityEngineMaterial_267' 'CityEngineMaterial_470'         4 
+			276  'mesh_CityEngineMaterial_268' 'CityEngineMaterial_378'         6 
+			277  'mesh_CityEngineMaterial_269' 'CityEngineMaterial_133'        13 
+			278  'mesh_CityEngineMaterial_270' 'CityEngineMaterial_290'         2 
+			279  'mesh_CityEngineMaterial_271' 'CityEngineMaterial_409'         2 
+			280  'mesh_CityEngineMaterial_272' 'CityEngineMaterial_158'         4 
+			281  'mesh_CityEngineMaterial_273' 'CityEngineMaterial_465'         8 
+			282  'mesh_CityEngineMaterial_274' 'CityEngineMaterial_140'         4 
+			283  'mesh_CityEngineMaterial_275' 'CityEngineMaterial_107'         6 
+			284  'mesh_CityEngineMaterial_276' 'CityEngineMaterial_475'         4 
+			285  'mesh_CityEngineMaterial_277' 'CityEngineMaterial_109'         3 
+			286  'mesh_CityEngineMaterial_278' 'CityEngineMaterial_323'         3 
+			287  'mesh_CityEngineMaterial_279' 'CityEngineMaterial_279'         5 
+			288  'mesh_CityEngineMaterial_280' 'CityEngineMaterial_203'         5 
+			289  'mesh_CreateFan_7'            'CreateFan_3'                  520 
+			290  'mesh_CityEngineMaterial_281' 'CityEngineMaterial_147'         4 
+			291  'mesh_CityEngineMaterial_282' 'CityEngineMaterial_192'         5 
+			292  'mesh_CityEngineMaterial_283' 'CityEngineMaterial_248'         1 
+			293  'mesh_CityEngineMaterial_284' 'CityEngineMaterial_219'         7 
+			294  'mesh_CityEngineMaterial_285' 'CityEngineMaterial_97'          6 
+			295  'mesh_CityEngineMaterial_286' 'CityEngineMaterial_165'        12 
+			296  'mesh_CityEngineMaterial_287' 'CityEngineMaterial_80'          4 
+			297  'mesh_CityEngineMaterial_288' 'CityEngineMaterial_214'         8 
+			298  'mesh_CityEngineMaterial_289' 'CityEngineMaterial_2'       11106 
+			299  'mesh_CityEngineMaterial_290' 'CityEngineMaterial_69'         44 
+			300  'mesh_CityEngineMaterial_291' 'CityEngineMaterial_84'          4 
+			301  'mesh_CityEngineMaterial_292' 'CityEngineMaterial_450'        13 
+			302  'mesh_CityEngineMaterial_293' 'CityEngineMaterial_407'         7 
+			303  'mesh_CityEngineMaterial_294' 'CityEngineMaterial_62'         16 
+			304  'mesh_CityEngineMaterial_295' 'CityEngineMaterial_424'        16 
+			305  'mesh_CityEngineMaterial_296' 'CityEngineMaterial_275'        14 
+			306  'mesh_CityEngineMaterial_297' 'CityEngineMaterial_459'        15 
+			307  'mesh_CityEngineMaterial_298' 'CityEngineMaterial_452'         4 
+			308  'mesh_CityEngineMaterial_299' 'CityEngineMaterial_47'         54 
+			309  'mesh_CityEngineMaterial_300' 'CityEngineMaterial_40'         65 
+			310  'mesh_CityEngineMaterial_301' 'CityEngineMaterial_126'        10 
+			311  'mesh_CityEngineMaterial_302' 'CityEngineMaterial_428'         9 
+			312  'mesh_CityEngineMaterial_303' 'CityEngineMaterial_401'         8 
+			313  'mesh_CityEngineMaterial_304' 'CityEngineMaterial_207'         4 
+			314  'mesh_CityEngineMaterial_305' 'CityEngineMaterial_258'        34 
+			315  'mesh_CityEngineMaterial_306' 'CityEngineMaterial_254'         8 
+			316  'mesh_CityEngineMaterial_307' 'CityEngineMaterial_20'         34 
+			317  'mesh_CityEngineMaterial_308' 'CityEngineMaterial_252'        16 
+			318  'mesh_CityEngineMaterial_309' 'CityEngineMaterial_146'        36 
+			319  'mesh_CityEngineMaterial_310' 'CityEngineMaterial_224'        19 
+			320  'mesh_CityEngineMaterial_311' 'CityEngineMaterial_360'        14 
+			321  'mesh_CityEngineMaterial_312' 'CityEngineMaterial_135'        11 
+			322  'mesh_CityEngineMaterial_313' 'CityEngineMaterial_419'         7 
+			323  'mesh_CityEngineMaterial_314' 'CityEngineMaterial_329'         3 
+			324  'mesh_CityEngineMaterial_315' 'CityEngineMaterial_430'         4 
+			325  'mesh_CityEngineMaterial_316' 'CityEngineMaterial_439'         5 
+			326  'mesh_CityEngineMaterial_317' 'CityEngineMaterial_145'         3 
+			327  'mesh_CityEngineMaterial_318' 'CityEngineMaterial_148'         4 
+			328  'mesh_CityEngineMaterial_319' 'CityEngineMaterial_267'         2 
+			329  'mesh_CityEngineMaterial_320' 'CityEngineMaterial_386'        10 
+			330  'mesh_CityEngineMaterial_321' 'CityEngineMaterial_375'        22 
+			331  'mesh_CityEngineMaterial_322' 'CityEngineMaterial_365'         3 
+			332  'mesh_CityEngineMaterial_323' 'CityEngineMaterial_396'         8 
+			333  'mesh_CityEngineMaterial_324' 'CityEngineMaterial_94'          6 
+			334  'mesh_CityEngineMaterial_325' 'CityEngineMaterial_96'         16 
+			335  'mesh_CityEngineMaterial_326' 'CityEngineMaterial_426'        20 
+			336  'mesh_CityEngineMaterial_327' 'CityEngineMaterial_114'        12 
+			337  'mesh_CityEngineMaterial_328' 'CityEngineMaterial_457'         1 
+			338  'mesh_CityEngineMaterial_329' 'CityEngineMaterial_22'         10 
+			339  'mesh_CityEngineMaterial_330' 'CityEngineMaterial_278'        69 
+			340  'mesh_CityEngineMaterial_331' 'CityEngineMaterial_101'        20 
+			341  'mesh_CityEngineMaterial_332' 'CityEngineMaterial_256'        31 
+			342  'mesh_CityEngineMaterial_333' 'CityEngineMaterial_33'         22 
+			343  'mesh_CityEngineMaterial_334' 'CityEngineMaterial_184'        15 
+			344  'mesh_CityEngineMaterial_335' 'CityEngineMaterial_373'         9 
+			345  'mesh_CityEngineMaterial_336' 'CityEngineMaterial_284'         3 
+			346  'mesh_CityEngineMaterial_337' 'CityEngineMaterial_276'         8 
+			347  'mesh_CityEngineMaterial_338' 'CityEngineMaterial_347'        21 
+			348  'mesh_CityEngineMaterial_339' 'CityEngineMaterial_384'         7 
+			349  'mesh_CityEngineMaterial_340' 'CityEngineMaterial_268'        16 
+			350  'mesh_CityEngineMaterial_341' 'CityEngineMaterial_431'         8 
+			351  'mesh_CityEngineMaterial_342' 'CityEngineMaterial_381'         8 
+			352  'mesh_CityEngineMaterial_343' 'CityEngineMaterial_211'        30 
+			353  'mesh_CityEngineMaterial_344' 'CityEngineMaterial_377'        14 
+			354  'mesh_CityEngineMaterial_345' 'CityEngineMaterial_241'        12 
+			355  'mesh_CityEngineMaterial_346' 'CityEngineMaterial_461'         9 
+			356  'mesh_CityEngineMaterial_347' 'CityEngineMaterial_255'        16 
+			357  'mesh_CityEngineMaterial_348' 'CityEngineMaterial_352'         8 
+			358  'mesh_CityEngineMaterial_349' 'CityEngineMaterial_344'        17 
+			359  'mesh_CityEngineMaterial_350' 'CityEngineMaterial_349'         2 
+			360  'mesh_CityEngineMaterial_351' 'CityEngineMaterial_334'         3 
+			361  'mesh_CityEngineMaterial_352' 'CityEngineMaterial_357'         8 
+			362  'mesh_CityEngineMaterial_353' 'CityEngineMaterial_390'        10 
+			363  'mesh_CityEngineMaterial_354' 'CityEngineMaterial_25'          8 
+			364  'mesh_CityEngineMaterial_355' 'CityEngineMaterial_473'         3 
+			365  'mesh_CityEngineMaterial_356' 'CityEngineMaterial_136'         6 
+			366  'mesh_CityEngineMaterial_357' 'CityEngineMaterial_294'        21 
+			367  'mesh_CityEngineMaterial_358' 'CityEngineMaterial_200'         8 
+			368  'mesh_CityEngineMaterial_359' 'CityEngineMaterial_112'         6 
+			369  'mesh_CityEngineMaterial_360' 'CityEngineMaterial_282'        14 
+			370  'mesh_CityEngineMaterial_361' 'CityEngineMaterial_122'        34 
+			371  'mesh_CityEngineMaterial_362' 'CityEngineMaterial_89'         93 
+			372  'mesh_CityEngineMaterial_363' 'CityEngineMaterial_134'        51 
+			373  'mesh_CityEngineMaterial_364' 'CityEngineMaterial_120'         4 
+			374  'mesh_CityEngineMaterial_365' 'CityEngineMaterial_32'          1 
+			375  'mesh_CityEngineMaterial_366' 'CityEngineMaterial_418'         1 
+			376  'mesh_CityEngineMaterial_367' 'CityEngineMaterial_397'         8 
+			377  'mesh_CityEngineMaterial_368' 'CityEngineMaterial_460'         7 
+			378  'mesh_CityEngineMaterial_369' 'CityEngineMaterial_358'         8 
+			379  'mesh_CityEngineMaterial_370' 'CityEngineMaterial_60'        104 
+			380  'mesh_CityEngineMaterial_371' 'CityEngineMaterial_247'         7 
+			381  'mesh_CityEngineMaterial_372' 'CityEngineMaterial_359'         4 
+			382  'mesh_CityEngineMaterial_373' 'CityEngineMaterial_30'          6 
+			383  'mesh_CityEngineMaterial_374' 'CityEngineMaterial_227'        18 
+			384  'mesh_CityEngineMaterial_375' 'CityEngineMaterial_110'         6 
+			385  'mesh_CityEngineMaterial_376' 'CityEngineMaterial_153'        50 
+			386  'mesh_CityEngineMaterial_377' 'CityEngineMaterial_137'         8 
+			387  'mesh_CityEngineMaterial_378' 'CityEngineMaterial_166'        36 
+			388  'mesh_CityEngineMaterial_379' 'CityEngineMaterial_103'         6 
+			389  'mesh_CityEngineMaterial_380' 'CityEngineMaterial_369'         8 
+			390  'mesh_CityEngineMaterial_381' 'CityEngineMaterial_209'        10 
+			391  'mesh_CityEngineMaterial_382' 'CityEngineMaterial_188'         6 
+			392  'mesh_CityEngineMaterial_383' 'CityEngineMaterial_318'        12 
+			393  'mesh_CityEngineMaterial_384' 'CityEngineMaterial_90'          5 
+			394  'mesh_CityEngineMaterial_385' 'CityEngineMaterial_82'         28 
+			395  'mesh_CityEngineMaterial_386' 'CityEngineMaterial_117'         4 
+			396  'mesh_CityEngineMaterial_387' 'CityEngineMaterial_121'         6 
+			397  'mesh_CityEngineMaterial_388' 'CityEngineMaterial_159'        27 
+			398  'mesh_CityEngineMaterial_389' 'CityEngineMaterial_464'         6 
+			399  'mesh_CityEngineMaterial_390' 'CityEngineMaterial_309'        12 
+			400  'mesh_CityEngineMaterial_391' 'CityEngineMaterial_186'         7 
+			401  'mesh_CityEngineMaterial_392' 'CityEngineMaterial_44'          1 
+			402  'mesh_CityEngineMaterial_393' 'CityEngineMaterial_429'         8 
+			403  'mesh_CityEngineMaterial_394' 'CityEngineMaterial_414'         6 
+			404  'mesh_CityEngineMaterial_395' 'CityEngineMaterial_442'         1 
+			405  'mesh_CityEngineMaterial_396' 'CityEngineMaterial_111'        46 
+			406  'mesh_CityEngineMaterial_397' 'CityEngineMaterial_306'         4 
+			407  'mesh_CityEngineMaterial_398' 'CityEngineMaterial_269'        14 
+			408  'mesh_CityEngineMaterial_399' 'CityEngineMaterial_476'        14 
+			409  'mesh_CityEngineMaterial_400' 'CityEngineMaterial_213'        14 
+			410  'mesh_CityEngineMaterial_401' 'CityEngineMaterial_206'        14 
+			411  'mesh_CityEngineMaterial_402' 'CityEngineMaterial_180'         4 
+			412  'mesh_CityEngineMaterial_403' 'CityEngineMaterial_379'         6 
+			413  'mesh_CityEngineMaterial_404' 'CityEngineMaterial_346'        42 
+			414  'mesh_CityEngineMaterial_405' 'CityEngineMaterial_202'         8 
+			415  'mesh_CityEngineMaterial_406' 'CityEngineMaterial_411'         3 
+			416  'mesh_CityEngineMaterial_407' 'CityEngineMaterial_345'        74 
+			417  'mesh_CreateFan_8'            'CreateFan'                    344 
+			418  'mesh_CityEngineMaterial_408' 'CityEngineMaterial_1'         878 
+			419  'mesh_CityEngineMaterial_409' 'CityEngineMaterial_217'         1 
+			420  'mesh_CityEngineMaterial_410' 'CityEngineMaterial_196'         2 
+			421  'mesh_CityEngineMaterial_411' 'CityEngineMaterial_87'          2 
+			422  'mesh_CityEngineMaterial_412' 'CityEngineMaterial_19'          1 
+			423  'mesh_CreateFan_9'            'CreateFan_8'                  312 
+			424  'mesh_CityEngineMaterial_413' 'CityEngineMaterial_23'         39 
+			425  'mesh_CityEngineMaterial_414' 'CityEngineMaterial_307'        12 
+			426  'mesh_CityEngineMaterial_415' 'CityEngineMaterial_472'         8 
+			427  'mesh_CityEngineMaterial_416' 'CityEngineMaterial_434'         3 
+			428  'mesh_CityEngineMaterial_417' 'CityEngineMaterial_298'        17 
+			429  'mesh_CityEngineMaterial_418' 'CityEngineMaterial_477'         3 
+			430  'mesh_CityEngineMaterial_419' 'CityEngineMaterial_124'        14 
+			431  'mesh_CityEngineMaterial_420' 'CityEngineMaterial_366'        14 
+			432  'mesh_CityEngineMaterial_421' 'CityEngineMaterial_216'        80 
+			433  'mesh_CityEngineMaterial_422' 'CityEngineMaterial_273'        48 
+			434  'mesh_CityEngineMaterial_423' 'CityEngineMaterial_420'         1 
+			435  'mesh_CityEngineMaterial_424' 'CityEngineMaterial_361'         4 
+			436  'mesh_CityEngineMaterial_425' 'CityEngineMaterial_141'        36 
+			437  'mesh_CityEngineMaterial_426' 'CityEngineMaterial_339'         6 
+			438  'mesh_CityEngineMaterial_427' 'CityEngineMaterial_144'         7 
+			439  'mesh_CityEngineMaterial_428' 'CityEngineMaterial_221'        38 
+			440  'mesh_CityEngineMaterial_429' 'CityEngineMaterial_251'        50 
+			441  'mesh_CityEngineMaterial_430' 'CityEngineMaterial_292'         8 
+			442  'mesh_CityEngineMaterial_431' 'CityEngineMaterial_64'         70 
+			443  'mesh_CreateFan_10'           'CreateFan_1'                  312 
+			444  'mesh_CityEngineMaterial_432' 'CityEngineMaterial_422'         1 
+			445  'mesh_CityEngineMaterial_433' 'CityEngineMaterial_229'         6 
+			446  'mesh_CityEngineMaterial_434' 'CityEngineMaterial_210'        26 
+			447  'mesh_CityEngineMaterial_435' 'CityEngineMaterial_78'         17 
+			448  'mesh_CityEngineMaterial_436' 'CityEngineMaterial_138'        18 
+			449  'mesh_CityEngineMaterial_437' 'CityEngineMaterial_315'         7 
+			450  'mesh_CityEngineMaterial_438' 'CityEngineMaterial_119'        15 
+			451  'mesh_CityEngineMaterial_439' 'CityEngineMaterial_283'        10 
+			452  'mesh_CityEngineMaterial_440' 'CityEngineMaterial_449'         5 
+			453  'mesh_CityEngineMaterial_441' 'CityEngineMaterial_160'        12 
+			454  'mesh_CityEngineMaterial_442' 'CityEngineMaterial_427'         6 
+			455  'mesh_CityEngineMaterial_443' 'CityEngineMaterial_336'         4 
+			456  'mesh_CityEngineMaterial_444' 'CityEngineMaterial_190'        10 
+			457  'mesh_CityEngineMaterial_445' 'CityEngineMaterial_142'        12 
+			458  'mesh_CityEngineMaterial_446' 'CityEngineMaterial_98'          8 
+			459  'mesh_CityEngineMaterial_447' 'CityEngineMaterial_93'         16 
+			460  'mesh_CityEngineMaterial_448' 'CityEngineMaterial_131'         2 
+			461  'mesh_CityEngineMaterial_449' 'CityEngineMaterial_149'         6 
+			462  'mesh_CityEngineMaterial_450' 'CityEngineMaterial_199'        16 
+			463  'mesh_CityEngineMaterial_451' 'CityEngineMaterial_66'          8 
+			464  'mesh_CityEngineMaterial_452' 'CityEngineMaterial_454'         8 
+			465  'mesh_CityEngineMaterial_453' 'CityEngineMaterial_372'         8 
+			466  'mesh_CityEngineMaterial_454' 'CityEngineMaterial_53'         38 
+			467  'mesh_CityEngineMaterial_455' 'CityEngineMaterial_50'          8 
+			468  'mesh_CityEngineMaterial_456' 'CityEngineMaterial_45'          8 
+			469  'mesh_CityEngineMaterial_457' 'CityEngineMaterial_237'         2 
+			470  'mesh_CityEngineMaterial_458' 'CityEngineMaterial_436'        18 
+			471  'mesh_CreateFan_11'           'CreateFan_2'                  320 
+			472  'mesh_CityEngineMaterial_459' 'CityEngineMaterial_392'        24 
+			473  'mesh_CityEngineMaterial_460' 'CityEngineMaterial_222'        97 
+			474  'mesh_CityEngineMaterial_461' 'CityEngineMaterial_322'        79 
+			475  'mesh_CityEngineMaterial_462' 'CityEngineMaterial_288'         6 
+			476  'mesh_CityEngineMaterial_463' 'CityEngineMaterial_161'         9 
+			477  'mesh_CityEngineMaterial_464' 'CityEngineMaterial_61'        104 
+			478  'mesh_CityEngineMaterial_465' 'CityEngineMaterial_46'          8 
+			479  'mesh_CityEngineMaterial_466' 'CityEngineMaterial_437'         5 
+			480  'mesh_CityEngineMaterial_467' 'CityEngineMaterial_245'         1 
+			481  'mesh_CityEngineMaterial_468' 'CityEngineMaterial_343'         6 
+			482  'mesh_CityEngineMaterial_469' 'CityEngineMaterial_220'        56 
+			483  'mesh_CityEngineMaterial_470' 'CityEngineMaterial_197'         6 
+			484  'mesh_CityEngineMaterial_471' 'CityEngineMaterial_327'         6 
+			485  'mesh_CityEngineMaterial_472' 'CityEngineMaterial_15'         21 
+			486  'mesh_CityEngineMaterial_473' 'CityEngineMaterial_305'        10 
+			487  'mesh_CityEngineMaterial_474' 'CityEngineMaterial_63'          8 
+			488  'mesh_CityEngineMaterial_475' 'CityEngineMaterial_257'        24 
+			489  'mesh_CityEngineMaterial_476' 'CityEngineMaterial_88'         14 
+			490  'mesh_CityEngineMaterial_477' 'CityEngineMaterial_474'         8 
+			491  'mesh_CityEngineMaterial_478' 'CityEngineMaterial_310'         4 
+			492  'mesh_CityEngineMaterial_479' 'CityEngineMaterial_246'         1 
+			493  'mesh_CityEngineMaterial_480' 'CityEngineMaterial_168'         4 
+	'city3.mtl':
+		MATERIAL:
+			Total Materials: 493
+			    | Name                   | Texture_0                            | Texture_1                    
+			====+========================+======================================+==============================
+			  1  'CityEngineMaterial_478' 'g_f001_t001_Mercantile_004.jpg'       ''                            
+			  2  'CityEngineMaterial_278' 'u_f004_t005_Utility_000.jpg'          ''                            
+			  3  'CityEngineMaterial_412' 'g_f001_t006_Service_007.jpg'          ''                            
+			  4  'CityEngineMaterial_236' 'u_f003_t003_Storage_000.jpg'          ''                            
+			  5  'CityEngineMaterial_383' 'g_f001_t006_Service_002.jpg'          ''                            
+			  6  'CityEngineMaterial_260' 'u_f002_t002_Educational_000.jpg'      ''                            
+			  7  'CityEngineMaterial_433' 'g_f001_t006_Service_004.jpg'          ''                            
+			  8  'CityEngineMaterial_78'  'parking_03.jpg'                       ''                            
+			  9  'CityEngineMaterial_230' 'flatRoof_40.jpg'                      'flatRoof_40.jpg'             
+			 10  'CityEngineMaterial_303' 'g_f001_t006_Service_012.jpg'          ''                            
+			 11  'CityEngineMaterial_32'  'flatRoof_13.jpg'                      'flatRoof_13.jpg'             
+			 12  'CityEngineMaterial_77'  'u_f002_t002_Residential_003.jpg'      ''                            
+			 13  'CityEngineMaterial_5'   'asphalt_painted_white_7x7m.jpg'       ''                            
+			 14  'CityEngineMaterial_220' 'u_f001_t005_Residential_000.jpg'      ''                            
+			 15  'CityEngineMaterial_465' 'g_f001_t006_Mercantile_014.jpg'       ''                            
+			 16  'CityEngineMaterial_378' 'g_f001_t006_Mercantile_015.jpg'       ''                            
+			 17  'CityEngineMaterial_145' 'flatRoof_17.jpg'                      'flatRoof_17.jpg'             
+			 18  'CityEngineMaterial_4'   'asphalt_14x14m.jpg'                   ''                            
+			 19  'CityEngineMaterial_467' 'g_f002_t006_Office_002.jpg'           ''                            
+			 20  'CityEngineMaterial_73'  'u_f002_t002_Residential_007.jpg'      ''                            
+			 21  'CityEngineMaterial_96'  'flatRoof_2.jpg'                       'flatRoof_2.jpg'              
+			 22  'CityEngineMaterial_411' 'flatRoof_35.jpg'                      'flatRoof_35.jpg'             
+			 23  'CityEngineMaterial_62'  'g_f002_t006_Residential_003.jpg'      ''                            
+			 24  'CityEngineMaterial_259' 'g_f002_t004_Industry_000.jpg'         ''                            
+			 25  'CityEngineMaterial_350' 'u_f001_t002_Residential_006.jpg'      ''                            
+			 26  'CityEngineMaterial_151' 'flatRoof_18.jpg'                      'flatRoof_18.jpg'             
+			 27  'CityEngineMaterial_6'   'lanes_4_stop_14x14m.jpg'              ''                            
+			 28  'CityEngineMaterial_355' 'flatRoof_29.jpg'                      'flatRoof_29.jpg'             
+			 29  'CityEngineMaterial_247' 'flatRoof_29.jpg'                      'flatRoof_29.jpg'             
+			 30  'CityEngineMaterial_93'  'parking_04.jpg'                       ''                            
+			 31  'CityEngineMaterial_98'  'parking_04.jpg'                       ''                            
+			 32  'CityEngineMaterial_296' 'flatRoof_29.jpg'                      'flatRoof_29.jpg'             
+			 33  'CityEngineMaterial_291' 'g_f001_t006_Mercantile_004.jpg'       ''                            
+			 34  'CityEngineMaterial_311' 'g_f001_t001_Mercantile_006.jpg'       ''                            
+			 35  'CityEngineMaterial_401' 'g_f002_t007_Industry_001.jpg'         ''                            
+			 36  'CityEngineMaterial_474' 'g_f001_t003_Residential_013.jpg'      ''                            
+			 37  'CityEngineMaterial_312' 'u_f009_t004_Residential_000.jpg'      ''                            
+			 38  'CityEngineMaterial_242' 'u_f001_t002_Residential_002.jpg'      ''                            
+			 39  'CityEngineMaterial_223' 'u_f001_t002_Residential_001.jpg'      ''                            
+			 40  'CreateFan_11'           'Ash_Billboard.png'                    'Ash_Billboard.png'           
+			 41  'CityEngineMaterial_385' 'flatRoof_24.jpg'                      'flatRoof_24.jpg'             
+			 42  'CityEngineMaterial_235' 'g_f001_t006_Service_016.jpg'          ''                            
+			 43  'CityEngineMaterial_333' 'g_f001_t006_Residential_010.jpg'      ''                            
+			 44  'CityEngineMaterial_33'  'g_f001_t006_Residential_029.jpg'      ''                            
+			 45  'CityEngineMaterial_169' 'u_f002_t002_Residential_000.jpg'      ''                            
+			 46  'CityEngineMaterial_212' 'flatRoof_12.jpg'                      'flatRoof_12.jpg'             
+			 47  'CityEngineMaterial_118' 'u_f011_t005_Residential_000.jpg'      ''                            
+			 48  'CityEngineMaterial_395' 'g_f001_t006_Mercantile_013.jpg'       ''                            
+			 49  'CityEngineMaterial_52'  'u_f001_t002_Residential_000.jpg'      ''                            
+			 50  'CityEngineMaterial_416' 'g_f001_t006_Mercantile_011.jpg'       ''                            
+			 51  'CityEngineMaterial_473' 'flatRoof_2.jpg'                       'flatRoof_2.jpg'              
+			 52  'CityEngineMaterial_398' 'g_f001_t006_Mercantile_008.jpg'       ''                            
+			 53  'CityEngineMaterial_201' 'u_f002_t002_Residential_001.jpg'      ''                            
+			 54  'CityEngineMaterial_133' 'g_f001_t005_Office_000.jpg'           ''                            
+			 55  'CityEngineMaterial_280' 'g_f001_t006_Mercantile_005.jpg'       ''                            
+			 56  'CityEngineMaterial_389' 'g_f001_t006_Service_013.jpg'          ''                            
+			 57  'CityEngineMaterial_69'  'u_f003_t004_Industry_001.jpg'         ''                            
+			 58  'CityEngineMaterial_281' 'flatRoof_4.jpg'                       'flatRoof_4.jpg'              
+			 59  'CityEngineMaterial_432' 'u_f004_t006_Educational_001.jpg'      ''                            
+			 60  'CityEngineMaterial'     'centerline_double_yellow_14m.jpg'     ''                            
+			 61  'CityEngineMaterial_16'  'u_f003_t003_Residential_004.jpg'      ''                            
+			 62  'CityEngineMaterial_393' 'u_f002_t003_Mercantile_001.jpg'       ''                            
+			 63  'CityEngineMaterial_418' 'flatRoof_13.jpg'                      'flatRoof_13.jpg'             
+			 64  'CityEngineMaterial_354' 'flatRoof_15.jpg'                      'flatRoof_15.jpg'             
+			 65  'CityEngineMaterial_222' 'ceramicRoof_2.jpg'                    'ceramicRoof_2.jpg'           
+			 66  'CityEngineMaterial_332' 'flatRoof_36.jpg'                      'flatRoof_36.jpg'             
+			 67  'CreateFan_9'            'Hickory_Billboard.png'                'Hickory_Billboard.png'       
+			 68  'CityEngineMaterial_452' 'g_f002_t006_Residential_000.jpg'      ''                            
+			 69  'CityEngineMaterial_459' 'g_f002_t006_Residential_002.jpg'      ''                            
+			 70  'CityEngineMaterial_124' 'g_f001_t007_Educational_000.jpg'      ''                            
+			 71  'CityEngineMaterial_316' 'u_f003_t004_Industry_000.jpg'         ''                            
+			 72  'CityEngineMaterial_445' 'g_f001_t001_Utility_000.jpg'          ''                            
+			 73  'CityEngineMaterial_36'  'ceramicRoof_6.jpg'                    'ceramicRoof_6.jpg'           
+			 74  'CityEngineMaterial_279' 'flatRoof_31.jpg'                      'flatRoof_31.jpg'             
+			 75  'CityEngineMaterial_448' 'flatRoof_22.jpg'                      'flatRoof_22.jpg'             
+			 76  'CityEngineMaterial_437' 'flatRoof_17.jpg'                      'flatRoof_17.jpg'             
+			 77  'CityEngineMaterial_249' 'flatRoof_10.jpg'                      'flatRoof_10.jpg'             
+			 78  'CityEngineMaterial_341' 'u_f028_t007_Office_000.jpg'           ''                            
+			 79  'CreateFan_2'            'Magnolia_Billboard.png'               'Magnolia_Billboard.png'      
+			 80  'CityEngineMaterial_9'   'lanes_4_stop_arrows_sides_14x14m.jpg' ''                            
+			 81  'CityEngineMaterial_321' 'g_f001_t006_Other_000.jpg'            ''                            
+			 82  'CityEngineMaterial_173' 'flatRoof_38.jpg'                      'flatRoof_38.jpg'             
+			 83  'CityEngineMaterial_287' 'u_f004_t006_Industry_002.jpg'         ''                            
+			 84  'CityEngineMaterial_289' 'u_f004_t006_Industry_003.jpg'         ''                            
+			 85  'CityEngineMaterial_190' 'flatRoof_16.jpg'                      'flatRoof_16.jpg'             
+			 86  'CityEngineMaterial_127' 'g_f001_t001_Residential_000.jpg'      ''                            
+			 87  'CityEngineMaterial_125' 'u_f016_t005_Office_000.jpg'           ''                            
+			 88  'CityEngineMaterial_424' 'g_f002_t006_Residential_006.jpg'      ''                            
+			 89  'CityEngineMaterial_177' 'g_f003_t008_Industry_000.jpg'         ''                            
+			 90  'CityEngineMaterial_464' 'g_f002_t006_Mercantile_004.jpg'       ''                            
+			 91  'CityEngineMaterial_192' 'flatRoof_30.jpg'                      'flatRoof_30.jpg'             
+			 92  'CityEngineMaterial_130' 'u_f015_t008_Residential_000.jpg'      ''                            
+			 93  'CityEngineMaterial_75'  'flatRoof_40.jpg'                      'flatRoof_40.jpg'             
+			 94  'CityEngineMaterial_297' 'g_f001_t009_Mercantile_000.jpg'       ''                            
+			 95  'CityEngineMaterial_100' 'flatRoof_7.jpg'                       'flatRoof_7.jpg'              
+			 96  'CityEngineMaterial_1'   'lanes_4_stripes_white_14x14m.jpg'     ''                            
+			 97  'CityEngineMaterial_207' 'flatRoof_23.jpg'                      'flatRoof_23.jpg'             
+			 98  'CreateFan_5'            'Elm_Billboard.png'                    'Elm_Billboard.png'           
+			 99  'CityEngineMaterial_472' 'g_f002_t009_Office_000.jpg'           ''                            
+			100  'CityEngineMaterial_450' 'u_f004_t002_Agricultural_000.jpg'     ''                            
+			101  'CityEngineMaterial_475' 'g_f001_t007_Office_000.jpg'           ''                            
+			102  'CityEngineMaterial_402' 'u_f001_t001_Transport_002.jpg'        ''                            
+			103  'CityEngineMaterial_330' 'g_f001_t006_Service_008.jpg'          ''                            
+			104  'CityEngineMaterial_246' 'flatRoof_7.jpg'                       'flatRoof_7.jpg'              
+			105  'CreateFan_6'            'Linden_Billboard.png'                 'Linden_Billboard.png'        
+			106  'CityEngineMaterial_285' 'u_f003_t003_Residential_002.jpg'      ''                            
+			107  'CityEngineMaterial_21'  'u_f002_t002_Residential_010.jpg'      ''                            
+			108  'CityEngineMaterial_415' 'g_f001_t002_Residential_002.jpg'      ''                            
+			109  'CityEngineMaterial_425' 'g_f001_t002_Residential_001.jpg'      ''                            
+			110  'CityEngineMaterial_175' 'u_f004_t005_Public_000.jpg'           ''                            
+			111  'CityEngineMaterial_386' 'g_f002_t004_Mercantile_000.jpg'       ''                            
+			112  'CityEngineMaterial_203' 'flatRoof_22.jpg'                      'flatRoof_22.jpg'             
+			113  'CityEngineMaterial_308' 'g_f001_t004_Mercantile_014.jpg'       ''                            
+			114  'CityEngineMaterial_161' 'u_f014_t009_Office_000.jpg'           ''                            
+			115  'CityEngineMaterial_394' 'flatRoof_28.jpg'                      'flatRoof_28.jpg'             
+			116  'CityEngineMaterial_251' 'u_f001_t003_Residential_005.jpg'      ''                            
+			117  'CityEngineMaterial_468' 'u_f004_t006_Industry_000.jpg'         ''                            
+			118  'CityEngineMaterial_362' 'flatRoof_6.jpg'                       'flatRoof_6.jpg'              
+			119  'CityEngineMaterial_158' 'g_f001_t006_Mercantile_019.jpg'       ''                            
+			120  'CityEngineMaterial_419' 'g_f001_t003_Industry_001.jpg'         ''                            
+			121  'CityEngineMaterial_186' 'flatRoof_3.jpg'                       'flatRoof_3.jpg'              
+			122  'CityEngineMaterial_155' 'g_f001_t006_Mercantile_022.jpg'       ''                            
+			123  'CityEngineMaterial_117' 'g_f002_t006_Mercantile_000.jpg'       ''                            
+			124  'CityEngineMaterial_290' 'flatRoof_14.jpg'                      'flatRoof_14.jpg'             
+			125  'CityEngineMaterial_422' 'flatRoof_23.jpg'                      'flatRoof_23.jpg'             
+			126  'CityEngineMaterial_453' 'u_f003_t003_Residential_001.jpg'      ''                            
+			127  'CityEngineMaterial_129' 'g_f001_t005_Educational_000.jpg'      ''                            
+			128  'CityEngineMaterial_306' 'flatRoof_20.jpg'                      'flatRoof_20.jpg'             
+			129  'CityEngineMaterial_111' 'u_f003_t001_Residential_000.jpg'      ''                            
+			130  'CityEngineMaterial_181' 'g_f001_t006_Service_015.jpg'          ''                            
+			131  'CityEngineMaterial_184' 'g_f002_t003_Mercantile_002.jpg'       ''                            
+			132  'CityEngineMaterial_216' 'u_f001_t003_Residential_008.jpg'      ''                            
+			133  'CityEngineMaterial_221' 'u_f001_t003_Residential_009.jpg'      ''                            
+			134  'CityEngineMaterial_199' 'parking_01.jpg'                       ''                            
+			135  'CityEngineMaterial_110' 'g_f002_t006_Mercantile_002.jpg'       ''                            
+			136  'CityEngineMaterial_2'   'curbs_2m.jpg'                         ''                            
+			137  'CityEngineMaterial_121' 'g_f002_t006_Mercantile_009.jpg'       ''                            
+			138  'CityEngineMaterial_322' 'u_f003_t002_Residential_002.jpg'      ''                            
+			139  'CityEngineMaterial_324' 'g_f001_t006_Service_014.jpg'          ''                            
+			140  'CityEngineMaterial_37'  'flatRoof_11.jpg'                      'flatRoof_11.jpg'             
+			141  'CityEngineMaterial_429' 'g_f001_t004_Public_000.jpg'           ''                            
+			142  'CityEngineMaterial_447' 'flatRoof_24.jpg'                      'flatRoof_24.jpg'             
+			143  'CityEngineMaterial_66'  'g_f002_t006_Educational_000.jpg'      ''                            
+			144  'CityEngineMaterial_320' 'flatRoof_7.jpg'                       'flatRoof_7.jpg'              
+			145  'CityEngineMaterial_339' 'g_f001_t004_Educational_001.jpg'      ''                            
+			146  'CityEngineMaterial_103' 'g_f002_t006_Mercantile_013.jpg'       ''                            
+			147  'CityEngineMaterial_399' 'u_f005_t005_Residential_000.jpg'      ''                            
+			148  'CityEngineMaterial_441' 'g_f001_t001_Mercantile_000.jpg'       ''                            
+			149  'CityEngineMaterial_40'  'u_f001_t002_Residential_014.jpg'      ''                            
+			150  'CityEngineMaterial_449' 'g_f001_t003_Mercantile_001.jpg'       ''                            
+			151  'CityEngineMaterial_427' 'g_f001_t003_Mercantile_008.jpg'       ''                            
+			152  'CityEngineMaterial_34'  'green_11.jpg'                         ''                            
+			153  'CityEngineMaterial_379' 'g_f001_t003_Residential_000.jpg'      ''                            
+			154  'CityEngineMaterial_24'  'green_11.jpg'                         ''                            
+			155  'CityEngineMaterial_191' 'u_f004_t006_Industry_001.jpg'         ''                            
+			156  'CityEngineMaterial_18'  'green_11.jpg'                         ''                            
+			157  'CityEngineMaterial_29'  'green_08.jpg'                         ''                            
+			158  'CityEngineMaterial_35'  'green_08.jpg'                         ''                            
+			159  'CityEngineMaterial_348' 'flatRoof_4.jpg'                       'flatRoof_4.jpg'              
+			160  'CityEngineMaterial_55'  'green_09.jpg'                         ''                            
+			161  'CityEngineMaterial_65'  'green_09.jpg'                         ''                            
+			162  'CityEngineMaterial_99'  'green_09.jpg'                         ''                            
+			163  'CityEngineMaterial_14'  'ceramicRoof_4.jpg'                    'ceramicRoof_4.jpg'           
+			164  'CityEngineMaterial_70'  'green_09.jpg'                         ''                            
+			165  'CityEngineMaterial_410' 'flatRoof_7.jpg'                       'flatRoof_7.jpg'              
+			166  'CityEngineMaterial_83'  'green_06.jpg'                         ''                            
+			167  'CityEngineMaterial_57'  'green_06.jpg'                         ''                            
+			168  'CityEngineMaterial_17'  'green_02.jpg'                         ''                            
+			169  'CityEngineMaterial_380' 'flatRoof_10.jpg'                      'flatRoof_10.jpg'             
+			170  'CityEngineMaterial_13'  'green_06.jpg'                         ''                            
+			171  'CityEngineMaterial_240' 'g_f001_t006_Service_011.jpg'          ''                            
+			172  'CityEngineMaterial_304' 'u_f004_t005_Office_000.jpg'           ''                            
+			173  'CityEngineMaterial_109' 'flatRoof_27.jpg'                      'flatRoof_27.jpg'             
+			174  'CityEngineMaterial_135' 'flatRoof_14.jpg'                      'flatRoof_14.jpg'             
+			175  'CityEngineMaterial_365' 'flatRoof_35.jpg'                      'flatRoof_35.jpg'             
+			176  'CityEngineMaterial_343' 'flatRoof_29.jpg'                      'flatRoof_29.jpg'             
+			177  'CityEngineMaterial_265' 'flatRoof_21.jpg'                      'flatRoof_21.jpg'             
+			178  'CityEngineMaterial_368' 'flatRoof_26.jpg'                      'flatRoof_26.jpg'             
+			179  'CityEngineMaterial_136' 'g_f001_t004_Mercantile_002.jpg'       ''                            
+			180  'CityEngineMaterial_56'  'green_02.jpg'                         ''                            
+			181  'CityEngineMaterial_92'  'u_f002_t003_Agricultural_000.jpg'     ''                            
+			182  'CityEngineMaterial_79'  'green_08.jpg'                         ''                            
+			183  'CityEngineMaterial_428' 'g_f002_t004_Mercantile_004.jpg'       ''                            
+			184  'CityEngineMaterial_28'  'green_02.jpg'                         ''                            
+			185  'CityEngineMaterial_126' 'flatRoof_17.jpg'                      'flatRoof_17.jpg'             
+			186  'CityEngineMaterial_371' 'g_f001_t006_Office_005.jpg'           ''                            
+			187  'CityEngineMaterial_359' 'flatRoof_5.jpg'                       'flatRoof_5.jpg'              
+			188  'CityEngineMaterial_142' 'parking_05.jpg'                       ''                            
+			189  'CityEngineMaterial_91'  'g_f001_t008_Mercantile_000.jpg'       ''                            
+			190  'CityEngineMaterial_456' 'flatRoof_26.jpg'                      'flatRoof_26.jpg'             
+			191  'CityEngineMaterial_219' 'flatRoof_4.jpg'                       'flatRoof_4.jpg'              
+			192  'CityEngineMaterial_241' 'g_f002_t006_Industry_002.jpg'         ''                            
+			193  'CityEngineMaterial_315' 'flatRoof_6.jpg'                       'flatRoof_6.jpg'              
+			194  'CityEngineMaterial_352' 'g_f001_t006_Residential_033.jpg'      ''                            
+			195  'CityEngineMaterial_138' 'parking_03.jpg'                       ''                            
+			196  'CityEngineMaterial_120' 'flatRoof_8.jpg'                       'flatRoof_8.jpg'              
+			197  'CityEngineMaterial_131' 'parking_05.jpg'                       ''                            
+			198  'CityEngineMaterial_288' 'flatRoof_24.jpg'                      'flatRoof_24.jpg'             
+			199  'CityEngineMaterial_357' 'g_f001_t006_Residential_034.jpg'      ''                            
+			200  'CityEngineMaterial_144' 'g_f001_t005_Other_000.jpg'            ''                            
+			201  'CityEngineMaterial_463' 'u_f014_t052_Residential_000.jpg'      ''                            
+			202  'CityEngineMaterial_159' 'u_f014_t006_Office_000.jpg'           ''                            
+			203  'CityEngineMaterial_25'  'flatRoof_10.jpg'                      'flatRoof_10.jpg'             
+			204  'CityEngineMaterial_248' 'flatRoof_13.jpg'                      'flatRoof_13.jpg'             
+			205  'CityEngineMaterial_116' 'flatRoof_9.jpg'                       'flatRoof_9.jpg'              
+			206  'CityEngineMaterial_162' 'flatRoof_25.jpg'                      'flatRoof_25.jpg'             
+			207  'CityEngineMaterial_149' 'parking_01.jpg'                       ''                            
+			208  'CityEngineMaterial_119' 'parking_02.jpg'                       ''                            
+			209  'CityEngineMaterial_157' 'flatRoof_23.jpg'                      'flatRoof_23.jpg'             
+			210  'CityEngineMaterial_270' 'u_f002_t002_Utility_002.jpg'          ''                            
+			211  'CityEngineMaterial_89'  'u_f002_t003_Mercantile_002.jpg'       ''                            
+			212  'CityEngineMaterial_39'  'flatRoof_28.jpg'                      'flatRoof_28.jpg'             
+			213  'CityEngineMaterial_274' 'g_f001_t002_Residential_003.jpg'      ''                            
+			214  'CityEngineMaterial_218' 'flatRoof_1.jpg'                       'flatRoof_1.jpg'              
+			215  'CityEngineMaterial_326' 'flatRoof_22.jpg'                      'flatRoof_22.jpg'             
+			216  'CityEngineMaterial_413' 'u_f007_t004_Residential_000.jpg'      ''                            
+			217  'CityEngineMaterial_139' 'flatRoof_38.jpg'                      'flatRoof_38.jpg'             
+			218  'CityEngineMaterial_27'  'u_f002_t003_Residential_000.jpg'      ''                            
+			219  'CityEngineMaterial_376' 'flatRoof_27.jpg'                      'flatRoof_27.jpg'             
+			220  'CityEngineMaterial_436' 'u_f005_t006_Industry_007.jpg'         ''                            
+			221  'CityEngineMaterial_106' 'flatRoof_17.jpg'                      'flatRoof_17.jpg'             
+			222  'CityEngineMaterial_435' 'g_f001_t001_Mercantile_002.jpg'       ''                            
+			223  'CityEngineMaterial_147' 'flatRoof_6.jpg'                       'flatRoof_6.jpg'              
+			224  'CityEngineMaterial_140' 'g_f001_t006_Mercantile_016.jpg'       ''                            
+			225  'CityEngineMaterial_469' 'g_f001_t001_Mercantile_008.jpg'       ''                            
+			226  'CityEngineMaterial_217' 'flatRoof_25.jpg'                      'flatRoof_25.jpg'             
+			227  'CityEngineMaterial_30'  'g_f002_t006_Mercantile_008.jpg'       ''                            
+			228  'CityEngineMaterial_344' 'g_f001_t006_Residential_030.jpg'      ''                            
+			229  'CityEngineMaterial_470' 'flatRoof_12.jpg'                      'flatRoof_12.jpg'             
+			230  'CityEngineMaterial_451' 'flatRoof_12.jpg'                      'flatRoof_12.jpg'             
+			231  'CityEngineMaterial_167' 'g_f001_t002_Mercantile_000.jpg'       ''                            
+			232  'CityEngineMaterial_358' 'g_f001_t006_Industry_000.jpg'         ''                            
+			233  'CityEngineMaterial_360' 'g_f001_t006_Residential_002.jpg'      ''                            
+			234  'CityEngineMaterial_171' 'g_f001_t002_Mercantile_002.jpg'       ''                            
+			235  'CityEngineMaterial_347' 'g_f001_t006_Residential_006.jpg'      ''                            
+			236  'CityEngineMaterial_227' 'g_f002_t006_Mercantile_006.jpg'       ''                            
+			237  'CityEngineMaterial_67'  'u_f002_t003_Assembly_000.jpg'         ''                            
+			238  'CityEngineMaterial_198' 'u_f004_t006_Assembly_001.jpg'         ''                            
+			239  'CityEngineMaterial_361' 'g_f001_t003_Mercantile_005.jpg'       ''                            
+			240  'CityEngineMaterial_336' 'g_f001_t003_Mercantile_003.jpg'       ''                            
+			241  'CityEngineMaterial_237' 'flatRoof_9.jpg'                       'flatRoof_9.jpg'              
+			242  'CityEngineMaterial_188' 'g_f002_t006_Mercantile_016.jpg'       ''                            
+			243  'CityEngineMaterial_90'  'flatRoof_15.jpg'                      'flatRoof_15.jpg'             
+			244  'CityEngineMaterial_269' 'u_f007_t004_Residential_001.jpg'      ''                            
+			245  'CityEngineMaterial_209' 'g_f002_t006_Mercantile_017.jpg'       ''                            
+			246  'CityEngineMaterial_122' 'u_f002_t003_Mercantile_000.jpg'       ''                            
+			247  'CityEngineMaterial_267' 'flatRoof_23.jpg'                      'flatRoof_23.jpg'             
+			248  'CityEngineMaterial_113' 'flatRoof_11.jpg'                      'flatRoof_11.jpg'             
+			249  'CityEngineMaterial_295' 'u_f013_t004_Residential_000.jpg'      ''                            
+			250  'CityEngineMaterial_300' 'g_f001_t006_Mercantile_000.jpg'       ''                            
+			251  'CityEngineMaterial_59'  'flatRoof_35.jpg'                      'flatRoof_35.jpg'             
+			252  'CityEngineMaterial_115' 'u_f003_t004_Public_000.jpg'           ''                            
+			253  'CityEngineMaterial_363' 'flatRoof_18.jpg'                      'flatRoof_18.jpg'             
+			254  'CityEngineMaterial_19'  'flatRoof_27.jpg'                      'flatRoof_27.jpg'             
+			255  'CityEngineMaterial_153' 'u_f002_t001_Industry_000.jpg'         ''                            
+			256  'CityEngineMaterial_384' 'g_f001_t006_Residential_032.jpg'      ''                            
+			257  'CityEngineMaterial_400' 'g_f001_t006_Residential_012.jpg'      ''                            
+			258  'CityEngineMaterial_226' 'flatRoof_11.jpg'                      'flatRoof_11.jpg'             
+			259  'CityEngineMaterial_439' 'flatRoof_36.jpg'                      'flatRoof_36.jpg'             
+			260  'CityEngineMaterial_382' 'g_f001_t006_Residential_011.jpg'      ''                            
+			261  'CityEngineMaterial_215' 'green_02.jpg'                         ''                            
+			262  'CityEngineMaterial_349' 'flatRoof_36.jpg'                      'flatRoof_36.jpg'             
+			263  'CityEngineMaterial_243' 'green_08.jpg'                         ''                            
+			264  'CityEngineMaterial_176' 'ceramicRoof_3.jpg'                    'ceramicRoof_3.jpg'           
+			265  'CityEngineMaterial_272' 'flatRoof_8.jpg'                       'flatRoof_8.jpg'              
+			266  'CityEngineMaterial_335' 'g_f001_t006_Office_002.jpg'           ''                            
+			267  'CreateFan_7'            'OakRed_Billboard.png'                 'OakRed_Billboard.png'        
+			268  'CityEngineMaterial_345' 'u_f001_t005_Residential_002.jpg'      ''                            
+			269  'CityEngineMaterial_292' 'flatRoof_28.jpg'                      'flatRoof_28.jpg'             
+			270  'CityEngineMaterial_178' 'u_f003_t003_Residential_003.jpg'      ''                            
+			271  'CityEngineMaterial_317' 'flatRoof_28.jpg'                      'flatRoof_28.jpg'             
+			272  'CityEngineMaterial_353' 'g_f001_t002_Residential_000.jpg'      ''                            
+			273  'CityEngineMaterial_210' 'u_f004_t003_Other_000.jpg'            ''                            
+			274  'CityEngineMaterial_60'  'ceramicRoof_7.jpg'                    'ceramicRoof_7.jpg'           
+			275  'CityEngineMaterial_205' 'flatRoof_32.jpg'                      'flatRoof_32.jpg'             
+			276  'CityEngineMaterial_366' 'g_f001_t006_Office_008.jpg'           ''                            
+			277  'CityEngineMaterial_61'  'u_f001_t005_Residential_001.jpg'      ''                            
+			278  'CityEngineMaterial_189' 'u_f004_t003_Residential_000.jpg'      ''                            
+			279  'CityEngineMaterial_264' 'green_11.jpg'                         ''                            
+			280  'CityEngineMaterial_261' 'green_11.jpg'                         ''                            
+			281  'CityEngineMaterial_244' 'green_11.jpg'                         ''                            
+			282  'CityEngineMaterial_8'   'crosswalk_continental_white.jpg'      ''                            
+			283  'CreateFan_3'            'MapleSummer_Billboard.png'            'MapleSummer_Billboard.png'   
+			284  'CityEngineMaterial_460' 'g_f001_t006_Educational_001.jpg'      ''                            
+			285  'CityEngineMaterial_43'  'flatRoof_21.jpg'                      'flatRoof_21.jpg'             
+			286  'CityEngineMaterial_276' 'g_f001_t006_Residential_007.jpg'      ''                            
+			287  'CityEngineMaterial_434' 'flatRoof_14.jpg'                      'flatRoof_14.jpg'             
+			288  'CityEngineMaterial_477' 'flatRoof_19.jpg'                      'flatRoof_19.jpg'             
+			289  'CityEngineMaterial_338' 'flatRoof_14.jpg'                      'flatRoof_14.jpg'             
+			290  'CityEngineMaterial_150' 'green_09.jpg'                         ''                            
+			291  'CityEngineMaterial_12'  'lanes_4_stop_arrows_all_14x14m.jpg'   ''                            
+			292  'CityEngineMaterial_179' 'green_08.jpg'                         ''                            
+			293  'CityEngineMaterial_104' 'green_06.jpg'                         ''                            
+			294  'CreateFan_4'            'Sycamore_Billboard.png'               'Sycamore_Billboard.png'      
+			295  'CityEngineMaterial_105' 'green_09.jpg'                         ''                            
+			296  'CityEngineMaterial_108' 'u_f004_t003_Storage_000.jpg'          ''                            
+			297  'CityEngineMaterial_405' 'flatRoof_1.jpg'                       'flatRoof_1.jpg'              
+			298  'CityEngineMaterial_377' 'g_f001_t006_Residential_001.jpg'      ''                            
+			299  'CityEngineMaterial_356' 'flatRoof_30.jpg'                      'flatRoof_30.jpg'             
+			300  'CityEngineMaterial_53'  'g_f001_t005_Residential_003.jpg'      ''                            
+			301  'CityEngineMaterial_50'  'g_f001_t005_Residential_000.jpg'      ''                            
+			302  'CityEngineMaterial_387' 'green_01.jpg'                         ''                            
+			303  'CityEngineMaterial_388' 'g_f001_t009_Service_000.jpg'          ''                            
+			304  'CityEngineMaterial_417' 'green_01.jpg'                         ''                            
+			305  'CityEngineMaterial_426' 'u_f008_t020_Public_000.jpg'           ''                            
+			306  'CityEngineMaterial_286' 'flatRoof_12.jpg'                      'flatRoof_12.jpg'             
+			307  'CityEngineMaterial_54'  'g_f001_t004_Residential_002.jpg'      ''                            
+			308  'CityEngineMaterial_97'  'g_f001_t002_Agricultural_002.jpg'     ''                            
+			309  'CityEngineMaterial_168' 'flatRoof_11.jpg'                      'flatRoof_11.jpg'             
+			310  'CityEngineMaterial_421' 'g_f001_t006_Office_000.jpg'           ''                            
+			311  'CityEngineMaterial_283' 'parking_02.jpg'                       ''                            
+			312  'CityEngineMaterial_38'  'ceramicRoof_1.jpg'                    'ceramicRoof_1.jpg'           
+			313  'CityEngineMaterial_404' 'u_f015_t011_Residential_001.jpg'      ''                            
+			314  'CityEngineMaterial_275' 'g_f002_t006_Residential_004.jpg'      ''                            
+			315  'CityEngineMaterial_185' 'green_02.jpg'                         ''                            
+			316  'CityEngineMaterial_194' 'green_02.jpg'                         ''                            
+			317  'CityEngineMaterial_45'  'g_f001_t005_Residential_002.jpg'      ''                            
+			318  'CityEngineMaterial_455' 'green_01.jpg'                         ''                            
+			319  'CityEngineMaterial_461' 'u_f003_t003_Office_000.jpg'           ''                            
+			320  'CityEngineMaterial_74'  'green_06.jpg'                         ''                            
+			321  'CityEngineMaterial_466' 'flatRoof_26.jpg'                      'flatRoof_26.jpg'             
+			322  'CityEngineMaterial_112' 'g_f002_t006_Office_000.jpg'           ''                            
+			323  'CityEngineMaterial_262' 'flatRoof_10.jpg'                      'flatRoof_10.jpg'             
+			324  'CityEngineMaterial_152' 'g_f001_t011_Mercantile_000.jpg'       ''                            
+			325  'CityEngineMaterial_193' 'flatRoof_36.jpg'                      'flatRoof_36.jpg'             
+			326  'CityEngineMaterial_42'  'ceramicRoof_5.jpg'                    'ceramicRoof_5.jpg'           
+			327  'CityEngineMaterial_273' 'u_f001_t003_Residential_006.jpg'      ''                            
+			328  'CityEngineMaterial_229' 'flatRoof_33.jpg'                      'flatRoof_33.jpg'             
+			329  'CityEngineMaterial_202' 'g_f001_t004_Educational_000.jpg'      ''                            
+			330  'CityEngineMaterial_123' 'flatRoof_37.jpg'                      'flatRoof_37.jpg'             
+			331  'CityEngineMaterial_101' 'g_f001_t006_Residential_026.jpg'      ''                            
+			332  'CityEngineMaterial_431' 'g_f001_t006_Residential_027.jpg'      ''                            
+			333  'CityEngineMaterial_409' 'flatRoof_9.jpg'                       'flatRoof_9.jpg'              
+			334  'CityEngineMaterial_414' 'g_f002_t006_Industry_003.jpg'         ''                            
+			335  'CityEngineMaterial_284' 'flatRoof_19.jpg'                      'flatRoof_19.jpg'             
+			336  'CityEngineMaterial_160' 'g_f001_t003_Mercantile_006.jpg'       ''                            
+			337  'CityEngineMaterial_49'  'flatRoof_39.jpg'                      'flatRoof_39.jpg'             
+			338  'CityEngineMaterial_342' 'green_08.jpg'                         ''                            
+			339  'CityEngineMaterial_364' 'green_06.jpg'                         ''                            
+			340  'CityEngineMaterial_197' 'g_f001_t005_Assembly_000.jpg'         ''                            
+			341  'CityEngineMaterial_396' 'g_f001_t005_Industry_001.jpg'         ''                            
+			342  'CityEngineMaterial_23'  'u_f002_t003_Public_000.jpg'           ''                            
+			343  'CityEngineMaterial_172' 'u_f004_t004_Residential_000.jpg'      ''                            
+			344  'CityEngineMaterial_480' 'u_f031_t009_Office_000.jpg'           ''                            
+			345  'CityEngineMaterial_214' 'u_f001_t002_Storage_000.jpg'          ''                            
+			346  'CityEngineMaterial_446' 'flatRoof_30.jpg'                      'flatRoof_30.jpg'             
+			347  'CityEngineMaterial_263' 'u_f002_t002_Residential_004.jpg'      ''                            
+			348  'CityEngineMaterial_134' 'u_f003_t004_Residential_000.jpg'      ''                            
+			349  'CityEngineMaterial_84'  'flatRoof_31.jpg'                      'flatRoof_31.jpg'             
+			350  'CityEngineMaterial_146' 'g_f001_t006_Residential_005.jpg'      ''                            
+			351  'CityEngineMaterial_309' 'g_f001_t003_Educational_000.jpg'      ''                            
+			352  'CityEngineMaterial_7'   'centerline_stripes_white_14m.jpg'     ''                            
+			353  'CityEngineMaterial_164' 'u_f006_t003_Industry_000.jpg'         ''                            
+			354  'CityEngineMaterial_392' 'u_f003_t002_Residential_003.jpg'      ''                            
+			355  'CityEngineMaterial_114' 'g_f001_t003_Industry_000.jpg'         ''                            
+			356  'CityEngineMaterial_180' 'flatRoof_5.jpg'                       'flatRoof_5.jpg'              
+			357  'CityEngineMaterial_407' 'g_f001_t006_Educational_000.jpg'      ''                            
+			358  'CityEngineMaterial_81'  'g_f001_t014_Industry_000.jpg'         ''                            
+			359  'CityEngineMaterial_381' 'g_f001_t006_Residential_028.jpg'      ''                            
+			360  'CreateFan_10'           'Juniper_Billboard.png'                'Juniper_Billboard.png'       
+			361  'CityEngineMaterial_430' 'flatRoof_2.jpg'                       'flatRoof_2.jpg'              
+			362  'CityEngineMaterial_234' 'u_f003_t003_Educational_001.jpg'      ''                            
+			363  'CreateFan_8'            'PineAustralian_Billboard.png'         'PineAustralian_Billboard.png'
+			364  'CityEngineMaterial_282' 'g_f001_t004_Mercantile_009.jpg'       ''                            
+			365  'CityEngineMaterial_331' 'g_f001_t006_Mercantile_026.jpg'       ''                            
+			366  'CityEngineMaterial_323' 'flatRoof_16.jpg'                      'flatRoof_16.jpg'             
+			367  'CityEngineMaterial_238' 'g_f002_t011_Public_000.jpg'           ''                            
+			368  'CityEngineMaterial_15'  'g_f001_t003_Residential_007.jpg'      ''                            
+			369  'CityEngineMaterial_63'  'g_f001_t003_Residential_009.jpg'      ''                            
+			370  'CityEngineMaterial_403' 'u_f010_t002_Residential_000.jpg'      ''                            
+			371  'CityEngineMaterial_420' 'flatRoof_20.jpg'                      'flatRoof_20.jpg'             
+			372  'CityEngineMaterial_454' 'flatRoof_1.jpg'                       'flatRoof_1.jpg'              
+			373  'CityEngineMaterial_46'  'g_f001_t003_Residential_011.jpg'      ''                            
+			374  'CityEngineMaterial_479' 'g_f002_t008_Public_000.jpg'           ''                            
+			375  'CityEngineMaterial_313' 'flatRoof_19.jpg'                      'flatRoof_19.jpg'             
+			376  'CityEngineMaterial_391' 'g_f001_t004_Residential_003.jpg'      ''                            
+			377  'CityEngineMaterial_58'  'flatRoof_32.jpg'                      'flatRoof_32.jpg'             
+			378  'CityEngineMaterial_165' 'g_f001_t002_Agricultural_001.jpg'     ''                            
+			379  'CityEngineMaterial_294' 'g_f001_t004_Mercantile_000.jpg'       ''                            
+			380  'CityEngineMaterial_438' 'g_f001_t004_Mercantile_003.jpg'       ''                            
+			381  'CityEngineMaterial_268' 'g_f001_t006_Residential_017.jpg'      ''                            
+			382  'CityEngineMaterial_225' 'g_f001_t006_Residential_016.jpg'      ''                            
+			383  'CityEngineMaterial_231' 'g_f001_t006_Residential_019.jpg'      ''                            
+			384  'CityEngineMaterial_26'  'g_f002_t003_Service_001.jpg'          ''                            
+			385  'CityEngineMaterial_325' 'u_f005_t006_Industry_000.jpg'         ''                            
+			386  'CityEngineMaterial_302' 'flatRoof_15.jpg'                      'flatRoof_15.jpg'             
+			387  'CityEngineMaterial_80'  'flatRoof_23.jpg'                      'flatRoof_23.jpg'             
+			388  'CityEngineMaterial_256' 'g_f001_t006_Residential_025.jpg'      ''                            
+			389  'CityEngineMaterial_442' 'flatRoof_37.jpg'                      'flatRoof_37.jpg'             
+			390  'CityEngineMaterial_211' 'g_f001_t006_Residential_031.jpg'      ''                            
+			391  'CityEngineMaterial_406' 'flatRoof_8.jpg'                       'flatRoof_8.jpg'              
+			392  'CityEngineMaterial_88'  'g_f001_t003_Residential_008.jpg'      ''                            
+			393  'CityEngineMaterial_307' 'flatRoof_12.jpg'                      'flatRoof_12.jpg'             
+			394  'CityEngineMaterial_87'  'flatRoof_37.jpg'                      'flatRoof_37.jpg'             
+			395  'CityEngineMaterial_233' 'g_f001_t004_Mercantile_013.jpg'       ''                            
+			396  'CityEngineMaterial_375' 'g_f001_t004_Residential_000.jpg'      ''                            
+			397  'CityEngineMaterial_255' 'g_f001_t006_Residential_035.jpg'      ''                            
+			398  'CityEngineMaterial_254' 'g_f001_t006_Residential_022.jpg'      ''                            
+			399  'CityEngineMaterial_252' 'g_f001_t006_Residential_021.jpg'      ''                            
+			400  'CityEngineMaterial_31'  'u_f001_t003_Agricultural_000.jpg'     ''                            
+			401  'CityEngineMaterial_71'  'flatRoof_9.jpg'                       'flatRoof_9.jpg'              
+			402  'CityEngineMaterial_200' 'g_f001_t004_Mercantile_005.jpg'       ''                            
+			403  'CityEngineMaterial_266' 'g_f001_t004_Mercantile_011.jpg'       ''                            
+			404  'CityEngineMaterial_232' 'flatRoof_37.jpg'                      'flatRoof_37.jpg'             
+			405  'CityEngineMaterial_166' 'u_f005_t004_Residential_001.jpg'      ''                            
+			406  'CityEngineMaterial_102' 'flatRoof_13.jpg'                      'flatRoof_13.jpg'             
+			407  'CityEngineMaterial_11'  'centerline_double_white_14m.jpg'      ''                            
+			408  'CreateFan'              'Chestnut_Billboard.png'               'Chestnut_Billboard.png'      
+			409  'CityEngineMaterial_374' 'u_f006_t006_Residential_002.jpg'      ''                            
+			410  'CityEngineMaterial_44'  'flatRoof_24.jpg'                      'flatRoof_24.jpg'             
+			411  'CityEngineMaterial_3'   'pavement_01_2x2m.jpg'                 ''                            
+			412  'CityEngineMaterial_337' 'u_f033_t006_Office_000.jpg'           ''                            
+			413  'CityEngineMaterial_346' 'g_f001_t003_Residential_001.jpg'      ''                            
+			414  'CityEngineMaterial_340' 'g_f002_t006_Transport_001.jpg'        ''                            
+			415  'CityEngineMaterial_94'  'flatRoof_23.jpg'                      'flatRoof_23.jpg'             
+			416  'CityEngineMaterial_64'  'u_f001_t003_Residential_003.jpg'      ''                            
+			417  'CityEngineMaterial_141' 'u_f009_t008_Industry_000.jpg'         ''                            
+			418  'CityEngineMaterial_132' 'flatRoof_18.jpg'                      'flatRoof_18.jpg'             
+			419  'CityEngineMaterial_301' 'u_f007_t006_Other_000.jpg'            ''                            
+			420  'CityEngineMaterial_245' 'flatRoof_14.jpg'                      'flatRoof_14.jpg'             
+			421  'CityEngineMaterial_329' 'flatRoof_36.jpg'                      'flatRoof_36.jpg'             
+			422  'CityEngineMaterial_258' 'g_f002_t006_Residential_007.jpg'      ''                            
+			423  'CityEngineMaterial_174' 'g_f001_t003_Unknown_000.jpg'          ''                            
+			424  'CityEngineMaterial_370' 'g_f002_t006_Agricultural_001.jpg'     ''                            
+			425  'CityEngineMaterial_351' 'flatRoof_33.jpg'                      'flatRoof_33.jpg'             
+			426  'CityEngineMaterial_195' 'flatRoof_30.jpg'                      'flatRoof_30.jpg'             
+			427  'CityEngineMaterial_143' 'flatRoof_14.jpg'                      'flatRoof_14.jpg'             
+			428  'CityEngineMaterial_224' 'g_f001_t006_Residential_004.jpg'      ''                            
+			429  'CityEngineMaterial_397' 'g_f001_t006_Industry_001.jpg'         ''                            
+			430  'CityEngineMaterial_182' 'u_f006_t004_Industry_000.jpg'         ''                            
+			431  'CityEngineMaterial_372' 'u_f001_t001_Agricultural_000.jpg'     ''                            
+			432  'CityEngineMaterial_196' 'flatRoof_4.jpg'                       'flatRoof_4.jpg'              
+			433  'CityEngineMaterial_476' 'u_f029_t012_Residential_000.jpg'      ''                            
+			434  'CityEngineMaterial_76'  'g_f003_t009_Educational_000.jpg'      ''                            
+			435  'CityEngineMaterial_156' 'u_f003_t003_Educational_000.jpg'      ''                            
+			436  'CityEngineMaterial_328' 'flatRoof_38.jpg'                      'flatRoof_38.jpg'             
+			437  'CityEngineMaterial_443' 'g_f001_t003_Office_000.jpg'           ''                            
+			438  'CityEngineMaterial_277' 'flatRoof_33.jpg'                      'flatRoof_33.jpg'             
+			439  'CityEngineMaterial_10'  'lanes_4_stop_word_14x14m.jpg'         ''                            
+			440  'CityEngineMaterial_327' 'g_f001_t003_Residential_004.jpg'      ''                            
+			441  'CityEngineMaterial_305' 'g_f001_t003_Residential_005.jpg'      ''                            
+			442  'CityEngineMaterial_206' 'g_f001_t003_Residential_006.jpg'      ''                            
+			443  'CityEngineMaterial_458' 'u_f001_t004_Residential_002.jpg'      ''                            
+			444  'CityEngineMaterial_228' 'u_f002_t002_Residential_006.jpg'      ''                            
+			445  'CityEngineMaterial_299' 'flatRoof_34.jpg'                      'flatRoof_34.jpg'             
+			446  'CityEngineMaterial_204' 'u_f002_t002_Residential_009.jpg'      ''                            
+			447  'CityEngineMaterial_208' 'flatRoof_15.jpg'                      'flatRoof_15.jpg'             
+			448  'CityEngineMaterial_51'  'g_f001_t006_Residential_013.jpg'      ''                            
+			449  'CityEngineMaterial_107' 'g_f002_t006_Industry_001.jpg'         ''                            
+			450  'CreateFan_1'            'PineCedar_Billboard.png'              'PineCedar_Billboard.png'     
+			451  'CityEngineMaterial_72'  'g_f001_t001_Educational_000.jpg'      ''                            
+			452  'CityEngineMaterial_253' 'u_f001_t002_Residential_004.jpg'      ''                            
+			453  'CityEngineMaterial_408' 'u_f004_t003_Service_000.jpg'          ''                            
+			454  'CityEngineMaterial_95'  'g_f001_t006_Residential_018.jpg'      ''                            
+			455  'CityEngineMaterial_22'  'g_f001_t006_Residential_000.jpg'      ''                            
+			456  'CityEngineMaterial_183' 'flatRoof_18.jpg'                      'flatRoof_18.jpg'             
+			457  'CityEngineMaterial_271' 'u_f002_t003_Office_000.jpg'           ''                            
+			458  'CityEngineMaterial_239' 'flatRoof_39.jpg'                      'flatRoof_39.jpg'             
+			459  'CityEngineMaterial_20'  'g_f001_t006_Residential_024.jpg'      ''                            
+			460  'CityEngineMaterial_444' 'flatRoof_31.jpg'                      'flatRoof_31.jpg'             
+			461  'CityEngineMaterial_148' 'g_f002_t004_Mercantile_002.jpg'       ''                            
+			462  'CityEngineMaterial_187' 'flatRoof_15.jpg'                      'flatRoof_15.jpg'             
+			463  'CityEngineMaterial_68'  'g_f001_t006_Service_010.jpg'          ''                            
+			464  'CityEngineMaterial_390' 'u_f003_t004_Other_000.jpg'            ''                            
+			465  'CityEngineMaterial_48'  'u_f001_t002_Residential_008.jpg'      ''                            
+			466  'CityEngineMaterial_163' 'g_f001_t004_Mercantile_010.jpg'       ''                            
+			467  'CityEngineMaterial_310' 'flatRoof_34.jpg'                      'flatRoof_34.jpg'             
+			468  'CityEngineMaterial_373' 'g_f002_t003_Mercantile_001.jpg'       ''                            
+			469  'CityEngineMaterial_47'  'u_f001_t002_Residential_015.jpg'      ''                            
+			470  'CityEngineMaterial_423' 'flatRoof_1.jpg'                       'flatRoof_1.jpg'              
+			471  'CityEngineMaterial_128' 'flatRoof_24.jpg'                      'flatRoof_24.jpg'             
+			472  'CityEngineMaterial_85'  'g_f001_t001_Utility_001.jpg'          ''                            
+			473  'CityEngineMaterial_41'  'u_f001_t002_Residential_009.jpg'      ''                            
+			474  'CityEngineMaterial_137' 'flatRoof_40.jpg'                      'flatRoof_40.jpg'             
+			475  'CityEngineMaterial_213' 'g_f001_t003_Residential_003.jpg'      ''                            
+			476  'CityEngineMaterial_314' 'g_f001_t001_Public_000.jpg'           ''                            
+			477  'CityEngineMaterial_457' 'flatRoof_3.jpg'                       'flatRoof_3.jpg'              
+			478  'CityEngineMaterial_257' 'g_f001_t003_Residential_002.jpg'      ''                            
+			479  'CityEngineMaterial_82'  'u_f009_t004_Educational_000.jpg'      ''                            
+			480  'CityEngineMaterial_462' 'g_f001_t005_Public_000.jpg'           ''                            
+			481  'CityEngineMaterial_293' 'flatRoof_31.jpg'                      'flatRoof_31.jpg'             
+			482  'CityEngineMaterial_369' 'g_f002_t006_Mercantile_005.jpg'       ''                            
+			483  'CityEngineMaterial_471' 'g_f002_t001_Industry_000.jpg'         ''                            
+			484  'CityEngineMaterial_318' 'g_f002_t006_Mercantile_001.jpg'       ''                            
+			485  'CityEngineMaterial_170' 'flatRoof_25.jpg'                      'flatRoof_25.jpg'             
+			486  'CityEngineMaterial_440' 'flatRoof_16.jpg'                      'flatRoof_16.jpg'             
+			487  'CityEngineMaterial_298' 'u_f014_t012_Residential_000.jpg'      ''                            
+			488  'CityEngineMaterial_367' 'u_f003_t003_Residential_005.jpg'      ''                            
+			489  'CityEngineMaterial_319' 'u_f003_t003_Residential_000.jpg'      ''                            
+			490  'CityEngineMaterial_334' 'flatRoof_5.jpg'                       'flatRoof_5.jpg'              
+			491  'CityEngineMaterial_154' 'flatRoof_2.jpg'                       'flatRoof_2.jpg'              
+			492  'CityEngineMaterial_86'  'u_f004_t004_Agricultural_000.jpg'     ''                            
+			493  'CityEngineMaterial_250' 'u_f001_t002_Residential_010.jpg'      ''                            
